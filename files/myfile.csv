@@ -1,0 +1,1215 @@
+Classess,Subjects,Lecture,Day,Teacher,Room
+FA22-BSCVE-B6,English Comprehension and Composition,1,100,CVE Saima Batool,C2.2
+FA22-BSCVE-B6,Pakistan Studies,1,10001,CVE Engr. Bilal Rafiq,A3
+FA22-BSCVE-B6,English Comprehension and Composition,1,10,CVE Saima Batool,W2
+FA22-BSCVE-B6,Engineering Mechanics,1,1000,CVE Engr. Hiba Arshad,Engineering Mechanics Lab
+FA21-BSCVE-B5,Professional Ethics,1,10, CVE Dr.Sajjad Ahmad,C2.5
+FA21-BSCVE-B5,Soil Mechanics,1,100,CVE Dr Nazam Ali,A3
+FA21-BSCVE-B5,Plane Surveying,1,10000,CVE Engr. Tafheem Abbas,Engineering Mechanics Lab
+FA20-BSCVE-B4,Indeterminate Structural Analysis,1,10,CVE Engr. M. Yousaf Mushtaq,A3
+FA20-BSCVE-B4,Properties of Concrete,1,1000,CVE Engr. Fayyaz Ulhaq,A3
+FA20-BSCVE-B4,Geotechnical and Foundation Engineering,1,1,CVE Engr. H. M. Sohaib Yasin,Getechnical Engineering Lab
+FA20-BSCVE-B4,Properties of Concrete,1,100,CVE Engr. Hiba Arshad,Civil Engineering Materials Lab
+FA19-BSCVE-B3,Final Year Project (Part I),1,10001,TBD,
+FA19-BSCVE-B3,Reinforced Concrete Design-II,1,10,CVE Engr. H. M. Sohaib Yasin,C lab5
+FA21-BSBI-B25,Communication Skills,1,10,MS Mr Zia Hassan,B7
+FA21-BSBI-B25,Introductory Molecular Biology,1,11000,BI Dr Sumaira,B13
+FA21-BSBI-B25,Communication Skills,1,1,MS Mr Zia Hassan,B13
+FA21-BSBI-B25,Linux for Biological Sciences,1,100,BI Ms Anum,C Lab1
+SP21-BSBI-B24,Introduction to Bioinformatics,1,10,BI Dr Farrukh,A1.1
+SP21-BSBI-B24,Introduction to Management,1,1000,MS Mr Suhail Qureshi,B14
+SP21-BSBI-B24,Object Oriented Programming,1,100,EE Mr Munawar,CAD CAM Lab
+FA20-BSBI-B23,New product development,1,10,MS Dr Rahib,B3
+FA20-BSBI-B23,New product development,1,1000,MS Dr Rahib,B7
+FA20-BSBI-B23,Developmental Biology,1,10000,BI Ms Rabia,Bio Lab
+SP20-BSBI-B22,Bioinformatics Scripting,1,1,BI Ms Tamsila,A1.1
+SP20-BSBI-B22,Structural and Functional Bioinformatics,1,1000,BI Ms Anum,C Lab4
+SP20-BSBI-B22,Modern Programming Languages,1,10000,EE Mr Amir Sabri,MS Lab
+SP20-BSBI-B22,Bioinformatics Scripting,1,100,BI Ms Tamsila,MS Lab
+FA19-BSBI-B21,Web Engineering,1,10000,BI Ms Anum,C Lab1
+FA22-FSN-B9-A,Introduction to Food Sciences and Nutrition,1,1,BI Dr Adnan,C4
+FA22-FSN-B9-B,Introduction to Computing,1,1,CS Mr Usman Nasim,MS Lab
+F22-BCH-B1,Introduction to Bioinformatics,1,10,BI Dr Farrukh,A1.1
+F22-BCH-B1,Introductory Molecular Biology,1,11000,BI Dr Sumaira,B13
+F22-BCH-B1,Introduction to Computing,1,1,CS Mr Usman Nasim,MS Lab
+SP22-FSN-B8,Global Food Issues,1,100,BI Dr Hammad,C3
+SP22-FSN-B8,Food Saftey and Security,1,1000,BI Ms Tamsila,C1.1
+FA21-FSN-B7,Communication Skills,1,10,MS Mr Zia Hassan,B7
+FA21-FSN-B7,Communication Skills,1,1,MS Mr Zia Hassan,B13
+FA21-FSN-B7,Food Analysis,1,1000,BI Ms Anusha,Bio Lab
+FA21-FSN-B7,Techniques in Food Processing and preservation,1,100,BI Ms Anusha,FSN Lab
+SP21-FSN-B6,Food Fermentation and Biotechnology,1,1,BI Dr Hammad,C1.2
+SP21-FSN-B6,Introduction to Management,1,1000,MS Mr Suhail Qureshi,B14
+SP21-FSN-B6,Food Fermentation and Biotechnology,1,10000,BI Mr Imran,FSN Lab
+FA20-FSN-B5-A,Food Process Engineering,1,100,ME Dr. Muneeb Qasim,C1
+FA20-FSN-B5-A,New product development,1,10,MS Dr Rahib,B3
+FA20-FSN-B5-A,New product development,1,1000,MS Dr Rahib,B7
+FA20-FSN-B5-B,Poultry and egg processing,1,100,BI Dr Asif,W2
+FA20-FSN-B5-B,Food Process Engineering,1,10,BI Ms Anusha,Bio Lab
+FA20-FSN-B5-B,Poultry and egg processing,1,1,BI Mr Imran,FSN Lab
+FA20-FSN-B5-B,Sensory Evaluation of Foods,1,1000,BI Ms Kanza,FSN Lab
+SP20-FSN-B4,Sea Food Resources and Processing,1,10,BI Dr Azhar,C1
+SP20-FSN-B4,Community Nutrition,1,10000,BI Dr Zeshan,C5
+SP20-FSN-B4,Nutritional Counselling,1,1,BI Ms Anusha,Bio Lab
+FA19-FSN-B3-AB,Food Microbiology,1,100,BI Dr Ibrahim,C4
+FA19-FSN-B3-AB,Processing of Fruits and Vegetables,1,10,BI Ms Areeba,FSN Lab
+FA22-BSME-B18-A,Calculus I,1,10000,MT Dr Asma,C2
+FA22-BSME-B18-A,English Comprehension and Composition,1,1000,CVE Saima Batool,A1.2
+FA22-BSME-B18-A,Introduction to Computer Programming,1,10,ME Dr. Muhammad Abid,A1.2
+FA21-BSME-B17-A,Differential Equations,1,10,MT Dr Hameed Ullah,C3
+FA21-BSME-B17-A,Pakistan Studies,1,100,ME Mr. Naveed Ahmad,A2.1
+FA21-BSME-B17-A,Thermodynamics,1,1,ME Mr. Zafar Farooq,Thermo Lab
+FA21-BSME-B17-A,Thermodynamics,1,1,ME Mr. Muhammad Nawaz,Thermo Lab
+FA20-BSME-B16-A,Numerical Computations,1,10000,ME Dr. Tauqeer Anwar,A1.2
+FA20-BSME-B16-A,Electric Machines,1,1000,ME Mr. Muzammil,A1.3
+FA20-BSME-B16-A,Electric Machines,1,1,ME Mr. Muzammil,W4
+FA20-BSME-B16-A,Mechanics of Machines I,1,10,ME Mr. Salman Nawaz,Vibrations Lab
+FA19-BSME-B15-A,Mechanical Vibrations,1,1000,ME Mr. Khawar Hussain,A2.1
+FA19-BSME-B15-A,Advanced Material Processing,1,1,ME Dr. Rafi Raza,W3
+FA19-BSME-B15-A,Mechanism and Mechanical Vibrations,1,100,ME Mr. Ghulam Mustafa,Vibrations Lab
+FA19-BSME-B15-A,Mechanism and Mechanical Vibrations,1,100,ME Ms. Sara Batool,Vibrations Lab
+FA19-BSME-B15-B,CAD  CAM (1hr),1,100,ME Mr. Khawar Hussain,A1.2
+FA19-BSME-B15-B,Renewable Energy Technology,1,1,ME Dr. Muneeb Qasim,W2
+SP19-BCS-8-A,Differential Equations,1,10,MT Dr Shahid,C5
+SP19-BCS-8-A,Professional Practics for IT,1,100,EE Mr Hafiz Zeeshan,A2.2
+FA19-BCS-7-A,Human Computer Interaction,1,10000,CS Ms. Raheela Shahzadi,C3
+FA19-BCS-7-A,Computer Vision,1,100,CS Dr. Muhammad Shoaib,C1.2
+FA19-BCS-7-A,Compiler Construction,1,1000,CS Ms. Zamzam Darwesh,Cisco Lab
+FA19-BCS-7-B,Artificial Intelligence,1,1000,CS Ms. Tahreem Saeed,C1
+FA19-BCS-7-B,Differential Equations,1,10,MT Dr Shahid,C5
+FA19-BCS-7-B,Human Computer Interaction,1,100,CS Ms. Raheela Shahzadi,C1.1
+FA19-BCS-7-B,Compiler Construction,1,1,CS Ms. Zamzam Darwesh,Cisco Lab
+SP20-BCS-6-A,Electricity Magnetism and Optics,1,1,EE Mr Rao Kashif,FYP Lab
+SP20-BCS-6-A,Web Technologies,1,10000,CS Ms Zunaira Mustafa,C Lab2
+SP20-BCS-6-A,Web Technologies,1,10,CS Ms Zunaira Mustafa,CAD CAM Lab
+SP20-BCS-6-B,Electricity Magnetism and Optics,1,1,EE Mr Rao Kashif,FYP Lab
+SP20-BCS-6-B,Web Technologies,1,10000,CS Ms Zunaira Mustafa,C Lab2
+SP20-BCS-6-B,Web Technologies,1,10,CS Ms Zunaira Mustafa,CAD CAM Lab
+FA20-BCS-5-A,Data Communication and Computer Networks,1,1000,CS Dr Saqlain,C2
+FA20-BCS-5-A,Game Development,1,10,CS Mr. Ali Sher Kashif,C1.2
+FA20-BCS-5-A,Operating Systems,1,100,EE Mr Amir Sabri,C Lab2
+FA20-BCS-5-B,Operating System,1,10,EE Mr Amir Sabri,C Lab2
+FA20-BCS-5-B,Game Development,1,100,CS Mr. Ali Sher Kashif,C Lab4
+FA20-BCS-5-B,Operating System,1,1000,EE Mr Amir Sabri,C lab5
+FA20-BCS-5-B,Data Communication and Computer Networks,1,10000,EE Asad Ali Khan,Cisco Lab
+FA20-BCS-5-C,Data Communication and Computer Networks,1,10,CS Dr Abuzar,A2.2
+FA20-BCS-5-C,Data Communication and Computer Networks,1,1000,EE Asad Ali Khan,C Lab2
+FA20-BCS-5-C,Introduction to the ICT,1,100,EE Mr Asim Noon,C lab5
+SP21-BCS-4-A,Database Systems I,1,100,CS Mr. Tariq Rafiq,C2.5
+SP21-BCS-4-A,Data Structures,1,1,CS Ms. Rabail Asghar,C Lab2
+SP21-BCS-4-A,Microprocessor and Assembly Language,1,1000,EE Mr Abdul Khaliq,MS Lab
+SP21-BCS-4-A,Database Systems I,1,10,CS Mr. Tariq Rafiq,Cisco Lab
+SP21-BCS-4-B,Database Systems I,1,10,CS Mr. Shahzad Ahmad,C Lab1
+SP21-BCS-4-B,Microprocessor and Assembly Language,1,1000,EE Mr Abdul Khaliq,MS Lab
+FA21-BCS-3-A,Software Engineering Concepts,1,10,CS Mr. Muhammad Usman Nasir,C2.2
+FA21-BCS-3-A,Digital Logic Design,1,1000,EE Mr Hafiz Zeeshan,C2.4
+FA21-BCS-3-A,Calculus and Analytical Geometry,1,100,MT Dr Afshan,W1
+FA21-BCS-3-B,Calculus and Analytical Geometry,1,100,MT Dr Afshan,W1
+FA21-BCS-3-C,Digital Logic Design,1,10,CS Mr Usman Nasim,C1.4
+FA21-BCS-3-C,Software Engineering Concepts,1,1,CS Mr. Muhammad Usman Nasir,C2.5
+FA21-BCS-3-C,Communication Skills,1,1000,MS Mr Zia Hassan,B10
+FA21-BCS-3-C,Calculus and Analytical Geometry,1,100,MT Dr Afshan,W1
+FA21-BCS-3-D,Communication Skills,1,1,ME Dr. Tauqeer Anwar,B12
+FA21-BCS-3-D,Calculus and Analytical Geometry,1,100,MT Dr Afshan,W1
+FA21-BCS-3-D,Digital Logic Design,1,10,CS Ms Amna,DLD Lab
+SP22-BCS-2-A,Calculus-I,1,10,MT Dr Sami Ullah,C4
+SP22-BCS-2-A,Programming Fundamentals,1,1,CS Mr Osama Ahmad,C lab5
+SP22-BCS-2-B,Calculus-I,1,1000,MT Dr Sami Ullah,C2.5
+SP22-BCS-2-B,Introduction to Business,1,10,MS Ms Sonia,B6
+SP22-BCS-2-C,Digital Logic Design,1,1,EE Mr Khalid Majeed,C5
+SP22-BCS-2-C,Calculus-I,1,1000,MT Dr Sami Ullah,C2.5
+SP22-BCS-2-C,Introduction to Business,1,100,MS Ms Abida Parveen,B4
+SP22-BCS-2-C,Digital Logic Design,1,10000,EE Mr Ahsan Maqsood,DLD Lab
+SP22-BCS-2-D,Programming Fundamentals,1,1,CS Mr. Syed Ameer Ahmed,C1.1
+SP22-BCS-2-D,Introduction to Business,1,10,MS Ms Sadaf Noor,B5
+FA22-BCS-1-A,Applied Physics for Engineers,1,100,CS Dr Aftab,C1.4
+FA22-BCS-1-A,Applied Physics for Engineers,1,10,ME Mr. Yasir Raza,PhyLab
+FA22-BCS-1-B,Applied Physics for Engineers,1,100,EE Ms Sabeen,C5
+FA22-BCS-1-B,ECC,1,10000,CVE Saima Batool,W4
+FA22-BCS-1-C,Introduction to the ICT,1,10000,EE Mr Abdul Khaliq,CAD CAM Lab
+FA22-BCS-1-D,Pre-Calculas-1,1,10,CS Ms Shaheen,C1.1
+FA22-BCS-1-D,Applied Physics for Engineers,1,100,ME Mr. Jawad Abid,PhyLab
+FA19-BSE-7-A,Software Project Management,1,10,CS Ms. Mubeen Javed,C2.4
+FA19-BSE-7-A,Human Computer Interaction,1,1000,CS Ms. Amina Hussain,C Lab1
+FA19-BSE-7-A,Human Computer Interaction,1,1,CS Ms. Amina Hussain,C Lab3
+FA19-BSE-7-A,Software Project Management,1,10000,CS Ms. Aniqa Khawar,C Lab4
+FA19-BSE-7-B,Human Computer Interaction,1,1000,CS Ms. Amina Hussain,C Lab1
+FA19-BSE-7-B,Human Computer Interaction,1,1,CS Ms. Amina Hussain,C Lab3
+SP20-BSE-6-A,Formal Methods,1,10000,CS Ms. Tahreem Saeed,C1.1
+SP20-BSE-6-A,Formal Methods,1,100,CS Ms. Tahreem Saeed,A1.3
+SP20-BSE-6-A,Software Project Management,1,10,CS Ms. Aniqa Khawar,C Lab3
+FA20-BSE-5-A,Statistics and Probability Theory,1,10,CS Ms Nosheen Ramzan,C2.3
+FA20-BSE-5-A,Introduction to Business,1,100,MS Ms Sonia,B14
+FA20-BSE-5-A,Design Patterns,1,1,CS Mr. Muhammad Jamshaid Iqbal,C Lab1
+FA20-BSE-5-B,Design Patterns,1,1000,CS Ms. Uzma Latif,C4
+FA20-BSE-5-B,Statistics and Probability Theory,1,1,CS Ms Nosheen Ramzan,C1.4
+FA20-BSE-5-B,Design Patterns,1,10,CS Ms. Uzma Latif,C Lab4
+FA20-BSE-5-B,Design Patterns,1,10000,CS Ms. Uzma Latif,C lab5
+FA20-BSE-5-B,Operating System concepts,1,100,CS Mr. Muhammad Shafqat,Cisco Lab
+FA20-BSE-5-C,Operating System concepts,1,100,CS Mr. Muhammad Umar,C2
+FA20-BSE-5-C,Design Patterns,1,10,CS Dr. Muhammad Farhan,C2
+FA20-BSE-5-C,Design Patterns,1,1000,CS Dr. Muhammad Farhan,C3
+FA20-BSE-5-C,Operating System concepts,1,10000,CS Mr. Muhammad Shafqat,C Lab3
+SP21-BSE-4-A,Differential Equations,1,10,MT Dr Shahid,C5
+SP21-BSE-4-A,Database Systems I,1,1,CS Mr. Tariq Rafiq,C1.3
+SP21-BSE-4-A,Linear Algebra,1,1000,MT Dr Naeem,A2.2
+SP21-BSE-4-A,Game Development,1,100,CS Ms Azka,C Lab3
+FA21-BSE-3-A,Introduction to Software Engineering,1,1000,CS Mr. Muhammad Ahmad,C5
+FA21-BSE-3-A,Object Oriented Programming,1,10,CS Mr. Syed Nasir Mehdi,C1.3
+FA21-BSE-3-A,Data Communication and Computer Networks,1,1,EE Mr Asif Imran,B14
+FA21-BSE-3-A,Calculus and Analytical Geometry,1,100,MT Dr Afshan,W1
+FA21-BSE-3-B,Linear Algebra,1,10000,MT Dr Najma,C1
+FA21-BSE-3-B,Linear Algebra,1,1000,MT Dr Najma,C1.4
+FA21-BSE-3-B,Data Communication and Computer Networks,1,1,EE Mr Asif Imran,B14
+FA21-BSE-3-B,Calculus and Analytical Geometry,1,100,MT Dr Afshan,W1
+FA21-BSE-3-C,Calculus and Analytical Geometry,1,100,MT Dr Afshan,W1
+FA21-BSE-3-C,Object Oriented Programming,1,1000,CS Ms Zunaira Mustafa,C Lab3
+FA21-BSE-3-C,Data Communication and Computer Networks,1,1,EE Asad Ali Khan,CAD CAM Lab
+SP22-BSE-2-A,Introduction to Software Engineering,1,1000,CS Ms. Mubeen Javed,C1.3
+SP22-BSE-2-A,Introduction to Software Engineering,1,100,CS Ms. Mubeen Javed,C2.4
+SP22-BSE-2-A,Introduction to Software Engineering,1,1,CS Ms Azka,C Lab4
+FA22-BSE-1-A,Pre-Calculas-1,1,10,CS Ms Shaheen,C1.1
+FA22-BSE-1-B,Pre-Calculas-1,1,10,CS Ms Shaheen,C1.1
+FA22-BSE-1-B,Applied Physics for Engineers,1,100,CS Ms Amna,A1.1
+FA22-BSE-1-B,Introduction to the ICT,1,1000,EE Mr Asim Noon,CAD CAM Lab
+FA22-BSEE-B11A,English Comprehension and Composition,1,1,EE Dr Talha Younas,C2
+FA22-BSEE-B11A,English Comprehension and Composition,1,100,EE Dr Talha Younas,C1.3
+FA22-BSEE-B11A,Applied Physics for Engineers,1,10000,EE Ms Sabeen,A1.3
+FA22-BSEE-B11A,Engineering Mechanics and Thermodynamics,1,10,EE Ms Maham,A2.1
+FA22-BSEE-B11A,Applied Physics for Engineers,1,1000,EE Ms Sabeen,A2.8
+FA21-BSEE-B10A,Electric Circuits Analysis II,1,1,CS Dr Aftab,C3
+FA21-BSEE-B10A,Linear Algebra,1,1000,EE Dr Musab,C1.2
+FA21-BSEE-B10A,Electronics I,1,10000,CS Dr Saeeda Usman,A2.1
+FA21-BSEE-B10A,Object Oriented Programming,1,100,EE Mr Munawar,CAD CAM Lab
+FA20-BSEE-B9A,Power Electronics,1,1000,EE Dr Sohaib,A1.1
+FA20-BSEE-B9A,Control Systems,1,1,EE Dr Saqib Saleem,A1.3
+FA20-BSEE-B9A,Principles of Communication Systems,1,10,CS Dr Saqlain,A1.3
+FA20-BSEE-B9A,Principles of Communication Systems,1,100,EE Mr Abdul Khaliq,DigitalLab
+FA19-BSEE-B8A,Real Time Embedded Systems,1,1000,EE Mr Ahsan Maqsood,DigitalLab
+FA22-BBA-B31,Introduction to Business,1,10000,MS Mr Haris,B3
+FA22-BBA-B31,Introduction to Management,1,10,MS Mr Ali Kirmani,B13
+SP22-BBA-B30,Accounting I,1,11000,MS Mr Hafiz Yasir,B4
+FA21-BBA-B29,Business Mathematics II,1,1,MT Dr Amar Rauf,B3
+FA21-BBA-B29,Business Mathematics II,1,10,MT Dr Amar Rauf,B9
+FA21-BBA-B29,BCW,1,100,MS Mr Badar Iqbal,B12
+SP21-BBA-B28,Financial Management,1,1000,MS Mr Shoaib Sajjad,B3
+SP21-BBA-B28,Marketing Management,1,100,MS Dr Junaid,B7
+SP21-BBA-B28,Financial Management,1,10000,MS Mr Shoaib Sajjad,B12
+FA20-BBA-B27 (A),HRD,1,1,MS Dr Asrar ul Haq,B1
+FA20-BBA-B27 (A),CB,1,1,MS Dr Saqib,B4
+FA20-BBA-B27 (A),TQM,1,1,MS Mr Bilal Mian,B10
+FA20-BBA-B27 (A),RTT,1,10000,MS Dr HM Arshad,B14
+FA20-BBA-B27 (A),E-Commerce,1,10,MS Mr Moazzam,MS Lab
+FA20-BBA-B27 (B),HRD,1,1,MS Dr Asrar ul Haq,B1
+FA20-BBA-B27 (B),CB,1,1,MS Dr Saqib,B4
+FA20-BBA-B27 (B),E-Commerce,1,100,MS Mr Moazzam,B8
+FA20-BBA-B27 (B),TQM,1,1,MS Mr Bilal Mian,B10
+FA20-BBA-B27 (B),RTT,1,10,MS Dr HM Arshad,B14
+SP20-BBA-B26,HRD,1,1,MS Dr Asrar ul Haq,B1
+SP20-BBA-B26,CB,1,1,MS Dr Saqib,B4
+SP20-BBA-B26,Business Law,1,100,MS Dr Khurram,B10
+SP20-BBA-B26,TQM,1,1,MS Mr Bilal Mian,B10
+SP20-BBA-B26,GBM,1,10,MS Mr Shoaib Bajwa,B11
+FA19-BBA-B25,Corporate Law,1,100,MS Mr Suhail Qureshi,B1
+FA19-BBA-B25,Corporate Governance,1,1,MS Mr Ali Kirmani,B5
+SP19-BBA-B24,Strategic Management,1,10000,MS Dr Muzhar,B1
+SP19-BBA-B24,Strategic Management,1,100,MS Dr Muzhar,B3
+SP21-BAF-B10,Corporate Law,1,100,MS Mr Suhail Qureshi,B1
+SP21-BAF-B10,GBM,1,10,MS Mr Shoaib Bajwa,B11
+FA20-BAF-B9,IBF,1,1000,MS Mr Bilal Mian,B1
+FA20-BAF-B9,IBF,1,100,MS Mr Bilal Mian,B13
+FA22-BS(English)-B1,Writing & Presentation Skills ,1,10,MS Mr Badar Iqbal,B12
+FA22-BS(English)-B1,Introduction to Poetry & Drama ,1,1000,MS Mr Badar Iqbal,B12
+FA22-BSCVE-B6,Calculus and Analytical Geometry,2,1,MT Dr Afshan,C2.2
+FA22-BSCVE-B6,Calculus and Analytical Geometry,2,10,MT Dr Afshan,W1
+FA22-BSCVE-B6,Engineering Mechanics,2,1000,CVE Engr. Hiba Arshad,Engineering Mechanics Lab
+FA22-BSCVE-B6,Engineering Mechanics,2,100,CVE Engr. M. Yousaf Mushtaq,Engineering Mechanics Lab
+FA21-BSCVE-B5,Introduction to Architecture and Town Planning,2,100,CVE Dr Nazam Ali,C2.4
+FA21-BSCVE-B5,Elementary Fluid Mechanics,2,10000,CVE Engr. Dr. Ammar Ashraf,A3
+FA21-BSCVE-B5,Plane Surveying,2,1000,CVE Engr. Tafheem Abbas,A2.2
+FA21-BSCVE-B5,Mechanics of Solids-I,2,1,CVE Engr. Hiba Arshad,Engineering Mechanics Lab
+FA20-BSCVE-B4,Properties of Concrete,2,10,CVE Engr. Fayyaz Ulhaq,B9
+FA20-BSCVE-B4,Statistics and Probability Theory,2,10000,MS Mr Suhail Qureshi,B10
+FA20-BSCVE-B4,Geotechnical and Foundation Engineering,2,1,CVE Engr. H. M. Sohaib Yasin,Getechnical Engineering Lab
+FA20-BSCVE-B4,Properties of Concrete,2,100,CVE Engr. Hiba Arshad,Civil Engineering Materials Lab
+FA19-BSCVE-B3,Reinforced Concrete Design-II,2,100,CVE Engr. Fayyaz Ulhaq,C4
+FA19-BSCVE-B3,Quantity Surveying and Cost Estimation,2,1,CVE Engr. Shad Muhammad,C5
+FA19-BSCVE-B3,Irrigation Engineering,2,1000,CVE Engr. Fayyaz Ulhaq,W1
+FA19-BSCVE-B3,Reinforced Concrete Design-II,2,10,CVE Engr. H. M. Sohaib Yasin,C lab5
+FA21-BSBI-B25,Linux for Biological Sciences,2,100,BI Ms Anum,C Lab1
+FA21-BSBI-B25,Data Structure,2,1,EE Mr Amir Sabri,C Lab4
+SP21-BSBI-B24,Fundamentals of Genetics,2,10,BI Dr Sumaira,C1
+SP21-BSBI-B24,Fundamentals of Genetics,2,100,BI Dr Sumaira,C5
+SP21-BSBI-B24,Object Oriented Programming,2,1000,EE Mr Munawar,A1.2
+SP21-BSBI-B24,Object Oriented Programming,2,10000,EE Mr Munawar,A2.2
+SP21-BSBI-B24,Introduction to Management,2,1,MS Mr Suhail Qureshi,B12
+FA20-BSBI-B23,Developmental Biology,2,1000,BI Dr Hasan,A1.3
+FA20-BSBI-B23,Bioinformatics Analysis,2,1,BI Ms Hajira,C Lab3
+FA20-BSBI-B23,Bioinformatics Database Development,2,10,BI Ms Hajira,C Lab4
+FA20-BSBI-B23,Biotechnology,2,100,BI Mr Imran,Bio Lab
+SP20-BSBI-B22,Statistics and Probability Theory,2,10000,CS Mr Fakhar,C2.2
+SP20-BSBI-B22,Modern Programming Languages,2,10,EE Mr Munawar,B5
+SP20-BSBI-B22,Structural and Functional Bioinformatics,2,1000,BI Ms Anum,C Lab4
+SP20-BSBI-B22,Bioinformatics Scripting,2,100,BI Ms Tamsila,MS Lab
+FA19-BSBI-B21,Bioinformatics Software Development,2,100,CS Dr Tariq Shahzad,C1.2
+FA19-BSBI-B21,Statistical Methods in Biology,2,10,CS Mr Fakhar,A2.1
+FA19-BSBI-B21,Introduction to Genomics and Proteomics,2,1000,BI Dr Qudsia,B7
+FA19-BSBI-B21,Web Engineering,2,10000,BI Ms Anum,C Lab1
+FA22-FSN-B9-A,Mathematics I,2,10000,MT Dr Sabir,C1.1
+FA22-FSN-B9-A,Introduction to Computing,2,1,EE Dr Ghulam Farid,C1.3
+FA22-FSN-B9-A,English Comprehension and Composition,2,10,MS Ms Mariam Azam,B3
+FA22-FSN-B9-A,Introduction to Food Sciences and Nutrition,2,1000,BI Dr Adnan,B3
+FA22-FSN-B9-B,Introduction to Food Sciences and Nutrition,2,1,BI Dr Adnan,C1.1
+FA22-FSN-B9-B,Mathematics I,2,1000,MT Dr Manzoor,B14
+FA22-FSN-B9-B,Mathematics I,2,100,MT Dr Manzoor,W3
+F22-BCH-B1,Mathematics I,2,1000,MT Dr Manzoor,B14
+F22-BCH-B1,Mathematics I,2,100,MT Dr Manzoor,W3
+SP22-FSN-B8,Global Food Issues,2,10000,BI Dr Hammad,A1.1
+SP22-FSN-B8,Introduction to Food Chemistry,2,10,BI Dr Qudsia,A2.2
+FA21-FSN-B7,Fundamental of Biotechnology,2,1,BI Ms Tamsila,C2.4
+FA21-FSN-B7,Food Analysis,2,1000,BI Ms Anusha,Bio Lab
+FA21-FSN-B7,Techniques in Food Processing and preservation,2,100,BI Ms Anusha,FSN Lab
+SP21-FSN-B6,Confectionery and Snack Food,2,1000,BI Dr Farrukh,C2.4
+SP21-FSN-B6,Introduction to Management,2,1,MS Mr Suhail Qureshi,B12
+SP21-FSN-B6,Food Fermentation and Biotechnology,2,10000,BI Mr Imran,FSN Lab
+FA20-FSN-B5-A,Poultry and egg processing,2,100,BI Dr Asif,A1.1
+FA20-FSN-B5-A,Sensory Evaluation of Foods,2,1000,BI Dr Nadeem,A1.1
+FA20-FSN-B5-A,Food Process Engineering,2,10,ME Dr. Muneeb Qasim,A1.3
+FA20-FSN-B5-B,Inherited Nutrition Disorder,2,100,BI Dr Zeshan,C3
+FA20-FSN-B5-B,Poultry and egg processing,2,10000,BI Dr Asif,W1
+FA20-FSN-B5-B,Food Process Engineering,2,10,BI Ms Anusha,Bio Lab
+FA20-FSN-B5-B,Poultry and egg processing,2,1,BI Mr Imran,FSN Lab
+FA20-FSN-B5-B,Sensory Evaluation of Foods,2,1000,BI Ms Kanza,FSN Lab
+SP20-FSN-B4,Nutrition in Emergency,2,1000,BI Dr Wasim,B5
+SP20-FSN-B4,Metabolism,2,100,BI Dr Hasan,B12
+SP20-FSN-B4,Nutritional Counselling,2,1,BI Ms Anusha,Bio Lab
+FA19-FSN-B3-AB,Functional and Nutraceutical Foods,2,1000,BI Mr Saad,C2.2
+FA19-FSN-B3-AB,Food Toxicology and Safety,2,100,BI Dr Awais,A1.2
+FA19-FSN-B3-AB,Sugar and Beverage Technology,2,10000,BI Dr Wasim,W2
+FA19-FSN-B3-AB,Processing of Fruits and Vegetables,2,10,BI Ms Areeba,FSN Lab
+FA22-BSME-B18-A,Calculus I,2,10,MT Dr Asma,A1.1
+FA22-BSME-B18-A,Applied Physics for Mechanical Engineers,2,1000,ME Dr. Muhammad Abid,A2.8
+FA22-BSME-B18-A,Introduction to Computer Programming,2,10000,ME Ms. Saba Gull,CAD CAM Lab
+FA22-BSME-B18-A,Engineering Drawing and Graphics,2,1,ME Mr. Ali Zahid,DRAWING HALL
+FA22-BSME-B18-A,Engineering Drawing and Graphics,2,1,ME Mr. Ghulam Mustafa,DRAWING HALL
+FA21-BSME-B17-A,Pakistan Studies,2,10000,ME Mr. Naveed Ahmad,W4
+FA21-BSME-B17-A,Mechanics of Materials I,2,100,ME Mr. Salman Nawaz,Fluid Mechanics Lab
+FA21-BSME-B17-A,Thermodynamics,2,1,ME Mr. Zafar Farooq,Thermo Lab
+FA21-BSME-B17-A,Thermodynamics,2,1,ME Mr. Muhammad Nawaz,Thermo Lab
+FA20-BSME-B16-A,Engineering Fluid Mechanics II,2,10,ME Mr. Hassan Iqbal,A1.2
+FA20-BSME-B16-A,Engineering Fluid Mechanics,2,10000,ME Mr. Jawad Abid,Fluid Mechanics Lab
+FA20-BSME-B16-A,Engineering Fluid Mechanics,2,10000,ME Mr. Muhammad Nawaz,Fluid Mechanics Lab
+FA20-BSME-B16-A,Numerical Computations,2,1000,ME Mr. Aamir Shehzad,CAD CAM Lab
+FA20-BSME-B16-A,Mechanics of Machines I,2,1,ME Mr. Salman Nawaz,Vibrations Lab
+FA19-BSME-B15-A,Air Conditioning and Refrigeration,2,1000,ME Mr. Hafeez Ahmad,A3
+FA19-BSME-B15-A,CAD  CAM (1hr),2,10000,ME Mr. Khawar Hussain,B3
+FA19-BSME-B15-A,Mechanism and Mechanical Vibrations,2,100,ME Mr. Ghulam Mustafa,Vibrations Lab
+FA19-BSME-B15-A,Mechanism and Mechanical Vibrations,2,100,ME Ms. Sara Batool,Vibrations Lab
+FA19-BSME-B15-B,Mechanical Vibrations,2,100,ME Mr. Khawar Hussain,A1.3
+FA19-BSME-B15-B,CAD CAM,2,10,ME Mr. Ali Zahid,CAD CAM Lab
+FA19-BSME-B15-B,Heat Transfer and HVAC,2,1,ME Mr. Muhammad Naveed,HMT Lab
+FA19-BSME-B15-B,Heat Transfer and HVAC,2,1,ME Mr. Yasir Raza,HMT Lab
+FA19-BSME-B15-B,Mechanism and Mechanical Vibrations,2,1000,ME Ms. Sara Batool,Vibrations Lab
+FA19-BSME-B15-B,Mechanism and Mechanical Vibrations,2,1000,ME Mr. Muhammad Naveed,Vibrations Lab
+SP19-BCS-8-A,Electricity Magnetism and Optics,2,100,CS Dr Abuzar,C2.2
+FA19-BCS-7-A,Artificial Intelligence,2,10000,CS Ms. Tahreem Saeed,C2
+FA19-BCS-7-A,Compiler Construction,2,10,CS Mr. Yawar Abbas Abid,C5
+FA19-BCS-7-A,Compiler Construction,2,1000,CS Ms. Zamzam Darwesh,Cisco Lab
+FA19-BCS-7-A,Human Computer Interaction,2,100,CS Ms. Amina Hussain,CAD CAM Lab
+FA19-BCS-7-B,Human Computer Interaction,2,1000,CS Ms. Raheela Shahzadi,B8
+FA19-BCS-7-B,Artificial Intelligence,2,10,CS Ms. Tahreem Saeed,C Lab2
+FA19-BCS-7-B,Compiler Construction,2,1,CS Ms. Zamzam Darwesh,Cisco Lab
+SP20-BCS-6-A,Automata Theory,2,1000,CS Mr. Yawar Abbas Abid,C1.2
+SP20-BCS-6-A,Web Technologies,2,10,CS Ms. Syda Fatima,C2.5
+SP20-BCS-6-A,Software Project Management,2,100,CS Ms. Mubeen Javed,W4
+SP20-BCS-6-A,Electricity Magnetism and Optics,2,1,EE Mr Rao Kashif,FYP Lab
+SP20-BCS-6-B,Automata Theory,2,1000,CS Mr. Yawar Abbas Abid,C1.2
+SP20-BCS-6-B,Web Technologies,2,10,CS Ms. Syda Fatima,C2.5
+SP20-BCS-6-B,Software Project Management,2,100,CS Ms. Mubeen Javed,W4
+SP20-BCS-6-B,Electricity Magnetism and Optics,2,1,EE Mr Rao Kashif,FYP Lab
+FA20-BCS-5-A,Computer Architecture,2,10,EE Dr Saqib Saleem,C1.3
+FA20-BCS-5-A,Operating Systems,2,10000,CS Mr. Muhammad Umar,C2.3
+FA20-BCS-5-A,Introduction to the ICT,2,1,EE Mr Maulan Yasin,A1.1
+FA20-BCS-5-A,Software Design Methodologies,2,1000,CS Mr. Ahmad Shaf,B6
+FA20-BCS-5-A,Operating Systems,2,100,EE Mr Amir Sabri,C Lab2
+FA20-BCS-5-B,Software Design Methodologies,2,1000,CS Dr Waqas,C5
+FA20-BCS-5-B,Operating Systems,2,1,CS Mr. Syed Ameer Ahmed,C1.4
+FA20-BCS-5-B,Data Communication and Computer Networks,2,100,CS Dr Saqlain,A2.8
+FA20-BCS-5-B,Data Communication and Computer Networks,2,10000,EE Asad Ali Khan,Cisco Lab
+FA20-BCS-5-C,Computer Architecture,2,10,CS Dr Tariq Shahzad,C3
+FA20-BCS-5-C,Operating Systems,2,10000,CS Ms. Uzma Latif,C3
+FA20-BCS-5-C,Introduction to the ICT,2,1,EE Dr Talha Younas,W2
+FA20-BCS-5-C,Introduction to the ICT,2,1000,EE Mr Asim Noon,MS Lab
+SP21-BCS-4-A,Data Structures,2,10,CS Dr. Zafar Iqbal Roy,C2.2
+SP21-BCS-4-A,Introduction to Management,2,100,MS Mr Bilal Mian,B4
+SP21-BCS-4-A,Data Structures,2,1,CS Ms. Rabail Asghar,C Lab2
+SP21-BCS-4-B,Database Systems I,2,1,CS Mr. Tariq Rafiq,C1.2
+SP21-BCS-4-B,Introduction to Management,2,100,MS Mr Bilal Mian,B4
+SP21-BCS-4-B,Database Systems I,2,10,CS Mr. Shahzad Ahmad,C Lab1
+SP21-BCS-4-B,Data Structures,2,10000,CS Ms. Rabail Asghar,C Lab2
+FA21-BCS-3-A,Object Oriented Programming,2,10,CS Mr. Usman Ali,C1.4
+FA21-BCS-3-A,Communication Skills,2,10000,EE Dr Sohaib,W3
+FA21-BCS-3-A,Object Oriented Programming,2,1000,CS Mr. Usman Ali,C Lab1
+FA21-BCS-3-B,Software Engineering Concepts,2,1000,CS Mr. Muhammad Usman Nasir,C2
+FA21-BCS-3-B,Object Oriented Programming,2,10000,CS Mr. Usman Ali,C2.4
+FA21-BCS-3-C,Digital Logic Design,2,1,CS Mr Usman Nasim,A3
+FA21-BCS-3-C,Communication Skills,2,10000,MS Mr Zia Hassan,B13
+FA21-BCS-3-C,Digital Logic Design,2,1000,EE Mr Waqar Tahir,DLD Lab
+FA21-BCS-3-D,Communication Skills,2,100,ME Dr. Tauqeer Anwar,C1.1
+FA21-BCS-3-D,Object Oriented Programming,2,1000,CS Mr. Shahzad Ahmad,C Lab3
+FA21-BCS-3-D,Digital Logic Design,2,10,CS Ms Amna,DLD Lab
+SP22-BCS-2-A,Programming Fundamentals,2,10,CS Dr. Javed Ferzund,C2
+SP22-BCS-2-A,Discrete Structures,2,1000,CS Ms Sana,C2.3
+SP22-BCS-2-A,Digital Logic Design,2,100,EE Dr Musab,A2.2
+SP22-BCS-2-A,Introduction to Business,2,10000,MS Ms Sonia,B7
+SP22-BCS-2-A,Programming Fundamentals,2,1,CS Mr Osama Ahmad,C lab5
+SP22-BCS-2-B,Programming Fundamentals,2,10000,CS Dr. Javed Ferzund,C1.2
+SP22-BCS-2-B,Digital Logic Design,2,1000,EE Mr Khalid Majeed,A2.1
+SP22-BCS-2-B,Discrete Structures,2,10,CS Ms Sana,W2
+SP22-BCS-2-B,Programming Fundamentals,2,100,CS Mr Osama Ahmad,C Lab4
+SP22-BCS-2-C,Programming Fundamentals,2,100,CS Mr. Syed Ameer Ahmed,C1.4
+SP22-BCS-2-C,Digital Logic Design,2,10000,EE Mr Ahsan Maqsood,DLD Lab
+SP22-BCS-2-D,Programming Fundamentals,2,10000,CS Mr. Syed Ameer Ahmed,C5
+SP22-BCS-2-D,Discrete Structures,2,10,MT Dr Omar,C2.4
+SP22-BCS-2-D,Discrete Structures,2,100,MT Dr Omar,C2.5
+SP22-BCS-2-D,Calculus-I,2,1,MT Dr Hameed Ullah,C2.5
+FA22-BCS-1-A,Introduction to the ICT,2,10000,EE Ms Maham,A2.1
+FA22-BCS-1-A,ECC,2,1,CVE Saima Batool,W1
+FA22-BCS-1-A,Introduction to the ICT,2,1000,EE Ms Maham,W4
+FA22-BCS-1-A,Applied Physics for Engineers,2,10,ME Mr. Yasir Raza,PhyLab
+FA22-BCS-1-B,Introduction to the ICT,2,1,CS Dr Saeeda Usman,C4
+FA22-BCS-1-B,Applied Physics for Engineers,2,1000,EE Mr Rao Kashif,FYP Lab
+FA22-BCS-1-C,ECC,2,1,VS Ms Madeeha Dastageer,C1
+FA22-BCS-1-C,Introduction to the ICT,2,100,CS Mr. Muhammad Aamir,C1.3
+FA22-BCS-1-D,Applied Physics for Engineers,2,10,ME Mr. Zafar Farooq,W3
+FA22-BCS-1-D,Applied Physics for Engineers,2,100,ME Mr. Jawad Abid,PhyLab
+SP19-BSE-8-A,Software Testing,2,1000,CS Mr. Muhammad Ahmad,C1.3
+FA19-BSE-7-A,Human Computer Interaction,2,10,CS Mr. Ahmad Shaf,C1.2
+FA19-BSE-7-A,Machine Learning,2,1000,CS Ms Azka,C1.4
+FA19-BSE-7-A,Software Project Management,2,10000,CS Ms. Aniqa Khawar,C Lab4
+FA19-BSE-7-B,Human Computer Interaction,2,10,CS Mr. Ahmad Shaf,C1.2
+FA19-BSE-7-B,Machine Learning,2,100,CS Dr. Muhammad Farhan,W2
+SP20-BSE-6-A,Information Security,2,10,CS Dr. Tariq Ali,C4
+SP20-BSE-6-A,Software Project Management,2,1000,CS Ms. Madiha Fatima,C4
+FA20-BSE-5-A,Software Requirement Engineering,2,100,CS Ms. Madiha Fatima,C1
+FA20-BSE-5-A,Web Technologies,2,10000,CS Ms. Syda Fatima,C4
+FA20-BSE-5-A,Operating System concepts,2,10,CS Mr. Muhammad Umar,C2.3
+FA20-BSE-5-A,Introduction to Business,2,1000,MS Ms Sonia,B13
+FA20-BSE-5-A,Design Patterns,2,1,CS Mr. Muhammad Jamshaid Iqbal,C Lab1
+FA20-BSE-5-B,Web Technologies,2,1000,CS Ms. Syda Fatima,C2.5
+FA20-BSE-5-B,Operating System concepts,2,100,CS Mr. Muhammad Shafqat,Cisco Lab
+FA20-BSE-5-C,Operating System concepts,2,1000,CS Mr. Muhammad Umar,C1
+FA20-BSE-5-C,Operating System concepts,2,10000,CS Mr. Muhammad Shafqat,C Lab3
+FA20-BSE-5-C,Web Technologies,2,10,CS Mr. Muhammad Aamir,C Lab3
+FA20-BSE-5-C,Design Patterns,2,100,CS Mr. Muhammad Jamshaid Iqbal,C lab5
+SP21-BSE-4-A,Object Oriented Software Engineering,2,10,CS Ms. Uzma Latif,C1.1
+SP21-BSE-4-A,Database Systems I,2,10000,CS Mr. Tariq Rafiq,A1.3
+SP21-BSE-4-A,Game Development,2,1,CS Mr. Ali Sher Kashif,B1
+SP21-BSE-4-A,Game Development,2,100,CS Ms Azka,C Lab3
+SP21-BSE-4-A,Data Structures,2,1000,CS Ms. Rabail Asghar,C lab5
+FA21-BSE-3-A,Linear Algebra,2,10000,MT Dr Najma,C1.3
+FA21-BSE-3-A,Data Communication and Computer Networks,2,100,EE Mr Asif Imran,W1
+FA21-BSE-3-B,Introduction to Software Engineering,2,1,CS Mr. Muhammad Ahmad,C2
+FA21-BSE-3-B,Data Communication and Computer Networks,2,100,EE Mr Asif Imran,W1
+FA21-BSE-3-B,Object Oriented Programming,2,1000,CS Mr. Syed Nasir Mehdi,W3
+FA21-BSE-3-B,Object Oriented Programming,2,10000,CS Mr. Shahzad Ahmad,C lab5
+FA21-BSE-3-C,Object Oriented Programming,2,10000,CS Mr. Syed Nasir Mehdi,C2.5
+FA21-BSE-3-C,Linear Algebra,2,100,MT Dr Misbah,A3
+FA21-BSE-3-C,Data Communication and Computer Networks,2,1,EE Asad Ali Khan,A2.1
+FA21-BSE-3-C,Introduction to Software Engineering,2,1000,CS Ms. Aniqa Khawar,C Lab2
+FA21-BSE-3-C,Object Oriented Programming,2,10,CS Ms Zunaira Mustafa,Cisco Lab
+SP22-BSE-2-A,Discrete Structures,2,10000,CS Ms Sana,C1.4
+SP22-BSE-2-A,Calculus-I,2,1,MT Dr Hameed Ullah,C2.5
+SP22-BSE-2-A,Communication Skills,2,10,MS Mr Zia Hassan,B13
+FA22-BSE-1-A,Applied Physics for Engineers,2,1000,CS Ms Amna,C1.1
+FA22-BSE-1-A,Applied Physics for Engineers,2,100,EE Mr Rao Kashif,FYP Lab
+FA22-BSE-1-B,Introduction to the ICT,2,10,EE Dr Ghulam Farid,A3
+FA22-BSE-1-B,Applied Physics for Engineers,2,10000,CS Ms Amna,A1.2
+FA22-BSE-1-B,English Comprehension and Composition,2,100,MS Ms Abida Parveen,B13
+FA22-BSEE-B11A,Engineering Mechanics and Thermodynamics,2,100,EE Ms Maham,B11
+FA22-BSEE-B11A,Engineering Drawing,2,1000,ME Mr. Ali Zahid,Engineering Drawing Hall
+FA21-BSEE-B10A,Object Oriented Programming,2,1000,EE Mr Munawar,A1.2
+FA21-BSEE-B10A,Object Oriented Programming,2,10000,EE Mr Munawar,A2.2
+FA21-BSEE-B10A,Electric Circuits Analysis II,2,10,CS Dr Aftab,B11
+FA21-BSEE-B10A,Electric Circuits Analysis II,2,100,EE Ms Rida,C&ELab
+FA20-BSEE-B9A,Principles of Communication Systems,2,100,EE Mr Abdul Khaliq,DigitalLab
+FA20-BSEE-B9A,Power Electronics,2,10,EE Mr Waqar Tahir,PowerElectronicsLab
+FA19-BSEE-B8A,Real Time Embedded Systems,2,100,EE Dr Ghulam Farid,C2.3
+FA19-BSEE-B8A,Numerical Computations,2,10010,EE Ms Rida,DigitalLab
+FA19-BSEE-B8A,Real Time Embedded Systems,2,1000,EE Mr Ahsan Maqsood,DigitalLab
+FA22-BBA-B31,Introduction to Computing,2,100,MS Mr Hasan Rafiq,B3
+FA22-BBA-B31,Micro ECO,2,10,MS Ms Sonia,B7
+FA22-BBA-B31,Introduction to Computing,2,10000,MS Mr Hasan Rafiq,MS Lab
+SP22-BBA-B30,Business Mathematics I,2,1,CS Ms Nosheen Ramzan,B4
+SP22-BBA-B30,Macro Economics,2,100,MS Ms Zunaira,B14
+FA21-BBA-B29,Accounting II,2,100,MS Mr Hafiz Yasir,B10
+FA21-BBA-B29,Business Finance,2,10,MS Dr Minhas,B12
+FA21-BBA-B29,Introduction to Statistics,2,1000,MS Mr Hasan Rafiq,B12
+FA21-BBA-B29,Business Finance,2,1,MS Dr Minhas,B13
+SP21-BBA-B28,MIS,2,100,MS Dr Waqas,B5
+SP21-BBA-B28,SI,2,1000,CS Mr Fakhar,B9
+SP21-BBA-B28,CA & MAC,2,10,MS Mr Bilal Lodhi,B10
+SP21-BBA-B28,MIS,2,1,MS Dr Waqas,MS Lab
+FA20-BBA-B27 (A),IFA,2,10000,MS Mr Bilal Lodhi,B5
+FA20-BBA-B27 (A),MR,2,10000,MS Dr Junaid,B6
+FA20-BBA-B27 (A),SSRM,2,100,MS Dr Rahib,B6
+FA20-BBA-B27 (A),SiF,2,100,MS Mr Shoaib Sajjad,B7
+FA20-BBA-B27 (A),HRD,2,100,MS Dr Asrar ul Haq,B8
+FA20-BBA-B27 (A),CB,2,100,MS Dr Saqib,B9
+FA20-BBA-B27 (A),ODCM,2,1,MS Mr Ali Kirmani,B11
+FA20-BBA-B27 (A),TQM,2,10000,MS Mr Bilal Mian,B14
+FA20-BBA-B27 (A),E-Commerce,2,10,MS Mr Moazzam,MS Lab
+FA20-BBA-B27 (B),POM,2,1000,MS Mr Haris,B1
+FA20-BBA-B27 (B),IFA,2,10000,MS Mr Bilal Lodhi,B5
+FA20-BBA-B27 (B),MR,2,10000,MS Dr Junaid,B6
+FA20-BBA-B27 (B),SSRM,2,100,MS Dr Rahib,B6
+FA20-BBA-B27 (B),SiF,2,100,MS Mr Shoaib Sajjad,B7
+FA20-BBA-B27 (B),HRD,2,100,MS Dr Asrar ul Haq,B8
+FA20-BBA-B27 (B),CB,2,100,MS Dr Saqib,B9
+FA20-BBA-B27 (B),ODCM,2,1,MS Mr Ali Kirmani,B11
+FA20-BBA-B27 (B),TQM,2,10000,MS Mr Bilal Mian,B14
+SP20-BBA-B26,Business Law,2,10,MS Dr Khurram,B1
+SP20-BBA-B26,IFA,2,10000,MS Mr Bilal Lodhi,B5
+SP20-BBA-B26,MR,2,10000,MS Dr Junaid,B6
+SP20-BBA-B26,SSRM,2,100,MS Dr Rahib,B6
+SP20-BBA-B26,SiF,2,100,MS Mr Shoaib Sajjad,B7
+SP20-BBA-B26,HRD,2,100,MS Dr Asrar ul Haq,B8
+SP20-BBA-B26,CB,2,100,MS Dr Saqib,B9
+SP20-BBA-B26,ODCM,2,1,MS Mr Ali Kirmani,B11
+SP20-BBA-B26,TQM,2,10000,MS Mr Bilal Mian,B14
+FA19-BBA-B25,FSAV,2,100,MS Dr QZ Malik,B1
+FA19-BBA-B25,CCM,2,11000,MS Dr Binesh,B4
+FA19-BBA-B25,Negotiation,2,10000,MS Mr Ali Kirmani,B8
+FA19-BBA-B25,FSAV,2,1000,MS Dr QZ Malik,B11
+FA19-BBA-B25,Entrepreneurship,2,11,MS Mr Bilal Mian,B14
+SP19-BBA-B24,FSAV,2,100,MS Dr QZ Malik,B1
+SP19-BBA-B24,CCM,2,11000,MS Dr Binesh,B4
+SP19-BBA-B24,SHRM,2,1,MS Dr Asrar ul Haq,B6
+SP19-BBA-B24,SSRM,2,100,MS Dr Rahib,B6
+SP19-BBA-B24,Project Management,2,10,MS Mr Haris,B8
+SP19-BBA-B24,Negotiation,2,10000,MS Mr Ali Kirmani,B8
+SP19-BBA-B24,FSAV,2,1000,MS Dr QZ Malik,B11
+SP21-BAF-B10,IFA,2,10000,MS Mr Bilal Lodhi,B5
+SP21-BAF-B10,ETP,2,10,MS Ms Zunaira,B6
+SP21-BAF-B10,Auditing,2,1000,MS Mr Hafiz Yasir,B10
+FA20-BAF-B9,ETP,2,10,MS Ms Zunaira,B6
+FA20-BAF-B9,Auditing,2,1000,MS Mr Hafiz Yasir,B10
+FA21-MBA-B3,CA & MAC,2,10,MS Mr Bilal Lodhi,B10
+FA22-BS(English)-B1,Introduction to Linguistics ,2,1,MS Ms Mariam Azam,B3
+FA22-BS(English)-B1,Introduction to Computing,2,100,MS Mr Hasan Rafiq,B3
+FA22-BS(English)-B1,Introduction to Computing,2,10000,MS Mr Hasan Rafiq,MS Lab
+FA22-BSCVE-B6,Applied Electricity and Electronics,3,10,EE Ms Sabeen,A2.1
+FA22-BSCVE-B6,Civil Engineering Drawing,3,100,CVE Engr. Shad Muhammad,A2.2
+FA22-BSCVE-B6,Applied Electricity and Electronics,3,1000,EE Ms Sabeen,A2.8
+FA21-BSCVE-B5,Soil Mechanics,3,10,CVE Dr Nazam Ali,A1.2
+FA21-BSCVE-B5,Elementary Fluid Mechanics,3,1000,CVE Engr. Dr. Ammar Ashraf,B4
+FA21-BSCVE-B5,Mechanics of Solids-I,3,1,CVE Engr. Hiba Arshad,Engineering Mechanics Lab
+FA21-BSCVE-B5,Plane Surveying,3,100,CVE Engr. H. M. Sohaib Yasin,Survey Lab
+FA21-BSCVE-B5,Elementary Fluid Mechanics,3,10000,CVE Engr. H. M. Sohaib Yasin,Hydraulics Lab
+FA20-BSCVE-B4,Geotechnical and Foundation Engineering,3,100,CVE Engr. Tafheem Abbas,C3
+FA20-BSCVE-B4,Geotechnical and Foundation Engineering,3,10000,CVE Engr. Tafheem Abbas,C5
+FA20-BSCVE-B4,Statistics and Probability Theory,3,1000,MS Mr Suhail Qureshi,B9
+FA19-BSCVE-B3,Reinforced Concrete Design-II,3,10,CVE Engr. Fayyaz Ulhaq,A2.2
+FA19-BSCVE-B3,Wastewater and Sanitary Engineering,3,1000, CVE Dr.Sajjad Ahmad,Engineering Mechanics Lab
+FA19-BSCVE-B3,Elective-I (Geo-Informatics),3,1,CVE Engr. H. M. Sohaib Yasin,C lab5
+FA21-BSBI-B25,Data Structure,3,100,CS Dr Waqas,C2.3
+FA21-BSBI-B25,Data Structure,3,1,EE Mr Amir Sabri,C Lab4
+SP21-BSBI-B24,Microbiology and Immunology,3,1000,BI Dr Awais,W4
+SP21-BSBI-B24,Introduction to Bioinformatics,3,100,BI Ms Areeba,C Lab2
+SP21-BSBI-B24,Fundamentals of Genetics,3,1,BI Ms Rabia,Bio Lab
+SP21-BSBI-B24,Microbiology and Immunology,3,10000,BI Ms Rabia,Bio Lab
+FA20-BSBI-B23,Bioinformatics Database Development,3,1000,BI Dr Azhar,C2.2
+FA20-BSBI-B23,Bioinformatics Database Development,3,10000,BI Dr Azhar,A2.1
+FA20-BSBI-B23,Developmental Biology,3,10,BI Dr Hasan,B10
+FA20-BSBI-B23,Bioinformatics Analysis,3,1,BI Ms Hajira,C Lab3
+SP20-BSBI-B22,Artificial Intelligence,3,100,EE Mr Asif Imran,A1.3
+SP20-BSBI-B22,Artificial Intelligence,3,10000,EE Mr Asif Imran,A2.8
+SP20-BSBI-B22,Bioinformatics Scripting,3,10,BI Ms Hajira,C Lab1
+SP20-BSBI-B22,Artificial Intelligence,3,1000,EE Mr Asif Imran,C Lab4
+FA19-BSBI-B21,Statistical Methods in Biology,3,10000,CS Mr Fakhar,C1.4
+FA19-BSBI-B21,Biological Modeling and Simulation,3,10,BI Mr Saad,C2.4
+FA19-BSBI-B21,Biological Modeling and Simulation,3,100,BI Mr Saad,W2
+FA19-BSBI-B21,Bioinformatics Software Development,3,1000,CS Dr Tariq Shahzad,DigitalLab
+FA22-FSN-B9-A,Mathematics I,3,100,MT Dr Sabir,C1.3
+FA22-FSN-B9-A,Principal of Human Nutrition,3,1000,BI Dr Abrar,A1.3
+FA22-FSN-B9-B,Introduction to Computing,3,1000,EE Ms Maham,C2.3
+FA22-FSN-B9-B,Introduction to Food Sciences and Nutrition,3,10,BI Dr Adnan,B6
+FA22-FSN-B9-B,English Comprehension and Composition,3,1,VS Ms Madeeha Dastageer,B14
+FA22-FSN-B9-B,Introduction to Computing,3,10000,CS Mr Usman Nasim,C Lab4
+F22-BCH-B1,Introduction to Computing,3,1000,EE Ms Maham,C2.3
+F22-BCH-B1,English Comprehension and Composition,3,1,VS Ms Madeeha Dastageer,B14
+F22-BCH-B1,Introduction to Bioinformatics,3,100,BI Ms Areeba,C Lab2
+F22-BCH-B1,Introduction to Computing,3,10000,CS Mr Usman Nasim,C Lab4
+SP22-FSN-B8,Food Saftey and Security,3,10,BI Ms Tamsila,B4
+SP22-FSN-B8,Cereal Science,3,100,BI Dr Wasim,W1
+FA21-FSN-B7,Community Nutrition,3,10000,BI Dr Asim,C1.1
+FA21-FSN-B7,Food Analysis,3,1,BI Dr Hammad,A1.2
+FA21-FSN-B7,Nutritional Requirements at Different Ages,3,1000,BI Dr Shahzad Saleem,A2.1
+FA21-FSN-B7,Community Nutrition,3,100,BI Dr Asim,B13
+SP21-FSN-B6,Nutritional Quality Management,3,1000,BI Dr Ibrahim,C1.2
+SP21-FSN-B6,Confectionery and Snack Food,3,10,BI Dr Farrukh,C1.4
+SP21-FSN-B6,Nutritional Quality Management,3,100,BI Dr Ibrahim,B4
+FA20-FSN-B5-A,Poultry and egg processing,3,1000,BI Dr Asif,C2
+FA20-FSN-B5-A,Inherited Nutrition Disorder,3,1,BI Dr Zeshan,C1.3
+FA20-FSN-B5-A,Sensory Evaluation of Foods,3,10,BI Dr Nadeem,A1.3
+FA20-FSN-B5-A,Food Laws and Regulations,3,10000,BI Dr Shahzad Saleem,A1.3
+FA20-FSN-B5-A,Food Laws and Regulations,3,100,BI Dr Shahzad Saleem,W3
+FA20-FSN-B5-B,Sensory Evaluation of Foods,3,1000,BI Dr Nadeem,A3
+FA20-FSN-B5-B,Inherited Nutrition Disorder,3,10000,BI Dr Zeshan,B9
+SP20-FSN-B4,Sea Food Resources and Processing,3,100,BI Dr Azhar,C2.2
+SP20-FSN-B4,Sea Food Resources and Processing,3,10001,BI Ms Kanza,FSN Lab
+FA19-FSN-B3-AB,Processing of Fruits and Vegetables,3,1000,BI Dr Asim,C1
+FA19-FSN-B3-AB,Food Microbiology,3,10000,BI Dr Ibrahim,A1.1
+FA19-FSN-B3-AB,Food Microbiology,3,100,BI Mr Imran,FSN Lab
+FA22-BSME-B18-A,Engineering Drawing and Graphics (1 hr),3,1000,ME Mr. Hassan Iqbal,A1.2
+FA22-BSME-B18-A,Applied Physics for Mechanical Engineers,3,100,ME Dr. Muhammad Abid,A2.8
+FA22-BSME-B18-A,Introduction to Computer Programming,3,10000,ME Ms. Saba Gull,CAD CAM Lab
+FA22-BSME-B18-A,Engineering Drawing and Graphics,3,1,ME Mr. Ali Zahid,DRAWING HALL
+FA22-BSME-B18-A,Engineering Drawing and Graphics,3,1,ME Mr. Ghulam Mustafa,DRAWING HALL
+FA21-BSME-B17-A,Thermodynamics II,3,100,ME Mr. Hassan Iqbal,A3
+FA21-BSME-B17-A,Mechanics of Materials I,3,1,ME Mr. Salman Nawaz,Fluid Mechanics Lab
+FA20-BSME-B16-A,Numerical Computations,3,10,ME Dr. Tauqeer Anwar,W1
+FA20-BSME-B16-A,Engineering Fluid Mechanics,3,10000,ME Mr. Jawad Abid,Fluid Mechanics Lab
+FA20-BSME-B16-A,Engineering Fluid Mechanics,3,10000,ME Mr. Muhammad Nawaz,Fluid Mechanics Lab
+FA20-BSME-B16-A,Numerical Computations,3,1000,ME Mr. Aamir Shehzad,CAD CAM Lab
+FA19-BSME-B15-A,Air Conditioning and Refrigeration,3,10,ME Mr. Hafeez Ahmad,A3
+FA19-BSME-B15-A,Mechanical Vibrations,3,10000,ME Mr. Khawar Hussain,A3
+FA19-BSME-B15-A,Advanced Material Processing,3,100,ME Dr. Rafi Raza,HMT Lab
+FA19-BSME-B15-B,Renewable Energy Technology,3,100,ME Dr. Muneeb Qasim,A1.1
+FA19-BSME-B15-B,CAD CAM,3,10,ME Mr. Ali Zahid,CAD CAM Lab
+FA19-BSME-B15-B,Heat Transfer and HVAC,3,1,ME Mr. Muhammad Naveed,HMT Lab
+FA19-BSME-B15-B,Heat Transfer and HVAC,3,1,ME Mr. Yasir Raza,HMT Lab
+FA19-BSME-B15-B,Mechanism and Mechanical Vibrations,3,1000,ME Ms. Sara Batool,Vibrations Lab
+FA19-BSME-B15-B,Mechanism and Mechanical Vibrations,3,1000,ME Mr. Muhammad Naveed,Vibrations Lab
+FA22-RCS-1-A-SP22-RCS-2-A,Internet of Things Architecture and Protocols,3,10000,CS Dr. Tariq Ali,C4
+FA22-RCS-1-A-SP22-RCS-2-A,Theory of Automata-II,3,110,CS Prof. Dr. Nazir Ahmad Zafar,C4
+FA22-RCS-1-A-SP22-RCS-2-A,Big Data Analytics,3,1000,CS Dr. Javed Ferzund,C1.1
+SP19-BCS-8-A,Differential Equations,3,100,MT Dr Shahid,C1
+SP19-BCS-8-A,Electricity Magnetism and Optics,3,1000,CS Dr Abuzar,W3
+FA19-BCS-7-A,Computer Vision,3,10,CS Dr. Muhammad Shoaib,C2
+FA19-BCS-7-A,Human Computer Interaction,3,100,CS Ms. Amina Hussain,CAD CAM Lab
+FA19-BCS-7-B,Differential Equations,3,100,MT Dr Shahid,C1
+FA19-BCS-7-B,Computer Vision,3,10000,CS Ms. Raheela Shahzadi,C2.3
+FA19-BCS-7-B,Human Computer Interaction,3,1,CS Ms. Amina Hussain,Cisco Lab
+SP20-BCS-6-A,Web Technologies,3,10000,CS Ms. Syda Fatima,C1
+SP20-BCS-6-A,Software Project Management,3,1000,CS Ms. Mubeen Javed,B6
+SP20-BCS-6-B,Web Technologies,3,10000,CS Ms. Syda Fatima,C1
+SP20-BCS-6-B,Software Project Management,3,1000,CS Ms. Mubeen Javed,B6
+FA20-BCS-5-A,Operating Systems,3,100,CS Mr. Muhammad Umar,C1.1
+FA20-BCS-5-A,Software Design Methodologies,3,1,CS Mr. Ahmad Shaf,C2.2
+FA20-BCS-5-A,Introduction to the ICT,3,1000,EE Mr Maulan Yasin,C2.5
+FA20-BCS-5-A,Computer Architecture,3,10000,EE Dr Saqib Saleem,B6
+FA20-BCS-5-B,Operating Systems,3,10,CS Mr. Syed Ameer Ahmed,C3
+FA20-BCS-5-B,Computer Architecture,3,1,EE Dr Saqib Saleem,A1.1
+FA20-BCS-5-B,Introduction to the ICT,3,100,EE Dr Talha Younas,A2.1
+FA20-BCS-5-B,Data Communication and Computer Networks,3,1000,CS Dr Saqlain,A2.2
+FA20-BCS-5-C,Game Development,3,1,CS Mr. Ali Sher Kashif,C2
+FA20-BCS-5-C,Computer Architecture,3,100,CS Dr Tariq Shahzad,B9
+FA20-BCS-5-C,Data Communication and Computer Networks,3,10000,EE Asad Ali Khan,C Lab1
+SP21-BCS-4-A,Software Engineering Concepts,3,1,CS Ms. Madiha Fatima,C5
+SP21-BCS-4-A,Data Structures,3,10000,CS Dr. Zafar Iqbal Roy,C1.3
+SP21-BCS-4-A,Microprocessor and Assembly Language,3,10,EE Mr Maulan Yasin,B3
+SP21-BCS-4-A,Database Systems I,3,100,CS Mr. Tariq Rafiq,C Lab1
+SP21-BCS-4-B,Data Structures,3,100,CS Dr. Zafar Iqbal Roy,C2
+SP21-BCS-4-B,Software Engineering Concepts,3,1,CS Ms. Madiha Fatima,C5
+SP21-BCS-4-B,Microprocessor and Assembly Language,3,10,EE Mr Maulan Yasin,B3
+SP21-BCS-4-B,Data Structures,3,10000,CS Ms. Rabail Asghar,C Lab2
+FA21-BCS-3-A,Digital Logic Design,3,10,EE Mr Hafiz Zeeshan,W3
+FA21-BCS-3-A,Object Oriented Programming,3,1000,CS Mr. Usman Ali,C Lab1
+FA21-BCS-3-A,Digital Logic Design,3,10000,EE Mr Waqar Tahir,DLD Lab
+FA21-BCS-3-B,Object Oriented Programming,3,10,CS Mr. Usman Ali,C1.3
+FA21-BCS-3-B,Digital Logic Design,3,1000,CS Mr Usman Nasim,A1.1
+FA21-BCS-3-B,Digital Logic Design,3,100,EE Mr Waqar Tahir,DLD Lab
+FA21-BCS-3-C,Object Oriented Programming,3,10000,CS Mr. Usman Ali,C2.4
+FA21-BCS-3-C,Digital Logic Design,3,1000,EE Mr Waqar Tahir,DLD Lab
+FA21-BCS-3-D,Software Engineering Concepts,3,1,CS Mr. Muhammad Usman Nasir,C4
+FA21-BCS-3-D,Object Oriented Programming,3,100,CS Mr. Syed Nasir Mehdi,A1.2
+FA21-BCS-3-D,Software Engineering Concepts,3,10000,CS Mr. Muhammad Usman Nasir,B8
+FA21-BCS-3-D,Object Oriented Programming,3,1000,CS Mr. Shahzad Ahmad,C Lab3
+SP22-BCS-2-A,Introduction to Business,3,1000,MS Ms Sonia,B7
+SP22-BCS-2-A,Digital Logic Design,3,10,EE Mr Ahsan Maqsood,DLD Lab
+SP22-BCS-2-B,Introduction to Business,3,10000,MS Ms Sonia,B3
+SP22-BCS-2-B,Calculus-I,3,10,MT Dr Sami Ullah,B7
+SP22-BCS-2-B,Programming Fundamentals,3,100,CS Mr Osama Ahmad,C Lab4
+SP22-BCS-2-C,Discrete Structures,3,1000,MT Dr Omar,C5
+SP22-BCS-2-C,Digital Logic Design,3,100,EE Mr Khalid Majeed,C5
+SP22-BCS-2-C,Calculus-I,3,10,MT Dr Sami Ullah,B7
+SP22-BCS-2-C,Discrete Structures,3,10000,MT Dr Omar,W2
+SP22-BCS-2-D,Digital Logic Design,3,10000,EE Mr Khalid Majeed,C1.2
+SP22-BCS-2-D,Calculus-I,3,10,MT Dr Hameed Ullah,C2.5
+FA22-BCS-1-A,Applied Physics for Engineers,3,10,CS Dr Aftab,B12
+FA22-BCS-1-A,Introduction to the ICT,3,10000,EE Ms Maham,DigitalLab
+FA22-BCS-1-B,ECC,3,1,CVE Saima Batool,W1
+FA22-BCS-1-B,Applied Physics for Engineers,3,1000,EE Mr Rao Kashif,FYP Lab
+FA22-BCS-1-B,Introduction to the ICT,3,10000,EE Mr Abdul Khaliq,Cisco Lab
+FA22-BCS-1-C,Introduction to the ICT,3,1000,CS Mr. Muhammad Aamir,C1.3
+FA22-BCS-1-C,Applied Physics for Engineers,3,10,ME Mr. Ghulam Mustafa,W2
+FA22-BCS-1-C,ECC,3,10000,VS Ms Madeeha Dastageer,W3
+FA22-BCS-1-D,Introduction to the ICT,3,1000,EE Mr Munawar,W1
+FA22-BCS-1-D,Introduction to the ICT,3,10000,EE Mr Munawar,W4
+SP19-BSE-8-A,Software Testing,3,100,CS Mr. Muhammad Ahmad,B7
+SP19-BSE-8-A,Software Testing,3,10,CS Mr. Muhammad Jamshaid Iqbal,C Lab2
+FA19-BSE-7-A,Machine Learning,3,10,CS Ms Azka,C2.2
+FA19-BSE-7-B,Machine Learning,3,1000,CS Dr. Muhammad Farhan,C4
+FA19-BSE-7-B,Computer Vision,3,10000,CS Dr. Muhammad Shoaib,C2.2
+FA19-BSE-7-B,Computer Vision,3,100,CS Dr. Muhammad Shoaib,B1
+FA19-BSE-7-B,Software Project Management,3,10,CS Ms. Mubeen Javed,B5
+SP20-BSE-6-A,Software Design Architecture,3,10000,CS Mr. Ahmad Shaf,C3
+FA20-BSE-5-A,Web Technologies,3,10,CS Ms. Syda Fatima,C5
+FA20-BSE-5-A,Statistics and Probability Theory,3,100,CS Ms Nosheen Ramzan,C2.4
+FA20-BSE-5-A,Web Technologies,3,1,CS Ms Zunaira Mustafa,C Lab2
+FA20-BSE-5-A,Operating System concepts,3,1000,CS Mr. Muhammad Shafqat,MS Lab
+FA20-BSE-5-B,Design Patterns,3,1,CS Ms. Uzma Latif,C1
+FA20-BSE-5-B,Operating System concepts,3,10,CS Mr. Muhammad Umar,C1.1
+FA20-BSE-5-B,Web Technologies,3,100,CS Ms. Syda Fatima,C1.2
+FA20-BSE-5-B,Introduction to Business,3,10000,MS Ms Sadaf Noor,B12
+FA20-BSE-5-C,Web Technologies,3,1000,CS Ms. Syda Fatima,C1.4
+FA20-BSE-5-C,Web Technologies,3,10,CS Mr. Muhammad Aamir,C Lab3
+FA20-BSE-5-C,Design Patterns,3,100,CS Mr. Muhammad Jamshaid Iqbal,C lab5
+SP21-BSE-4-A,Differential Equations,3,100,MT Dr Shahid,C1
+SP21-BSE-4-A,Linear Algebra,3,1,MT Dr Naeem,C1.1
+SP21-BSE-4-A,Data Structures,3,10,CS Mr. Yawar Abbas Abid,C2.3
+SP21-BSE-4-A,Object Oriented Software Engineering,3,10000,CS Ms Azka,C Lab3
+SP21-BSE-4-A,Data Structures,3,1000,CS Ms. Rabail Asghar,C lab5
+FA21-BSE-3-A,Introduction to Software Engineering,3,10000,CS Mr. Muhammad Ahmad,C2
+FA21-BSE-3-A,Object Oriented Programming,3,1000,CS Mr. Syed Nasir Mehdi,C2.4
+FA21-BSE-3-A,Data Communication and Computer Networks,3,1,EE Asad Ali Khan,C Lab1
+FA21-BSE-3-B,Introduction to Software Engineering,3,10,CS Mr. Muhammad Ahmad,B9
+FA21-BSE-3-B,Data Communication and Computer Networks,3,1,EE Asad Ali Khan,C Lab1
+FA21-BSE-3-B,Object Oriented Programming,3,10000,CS Mr. Shahzad Ahmad,C lab5
+FA21-BSE-3-C,Object Oriented Programming,3,10,CS Mr. Syed Nasir Mehdi,A1.1
+FA21-BSE-3-C,Linear Algebra,3,10000,MT Dr Misbah,B10
+FA21-BSE-3-C,Introduction to Software Engineering,3,1000,CS Ms. Aniqa Khawar,C Lab2
+SP22-BSE-2-A,Calculus-I,3,10,MT Dr Hameed Ullah,C2.5
+SP22-BSE-2-A,Discrete Structures,3,100,CS Ms Sana,B10
+SP22-BSE-2-A,Professional Practics for IT,3,1000,EE Mr Hafiz Zeeshan,W2
+FA22-BSE-1-A,Applied Physics for Engineers,3,1,CS Ms Amna,W2
+FA22-BSE-1-A,Applied Physics for Engineers,3,100,EE Mr Rao Kashif,FYP Lab
+FA22-BSE-1-A,Introduction to the ICT,3,10,EE Mr Asim Noon,C lab5
+FA22-BSE-1-B,Introduction to the ICT,3,10000,EE Dr Ghulam Farid,C2.5
+FA22-BSE-1-B,English Comprehension and Composition,3,1000,MS Ms Abida Parveen,B8
+FA22-BSEE-B11A,Calculus and Analytical Geometry,3,10,MT Dr Afshan,W4
+FA22-BSEE-B11A,Engineering Drawing,3,1000,ME Mr. Ali Zahid,Engineering Drawing Hall
+FA22-BSEE-B11A,Applied Physics for Engineers,3,10000,EE Mr Asim Noon,PhyLab
+FA21-BSEE-B10A,Linear Algebra,3,10000,EE Dr Musab,A1.2
+FA21-BSEE-B10A,Electric Circuits Analysis II,3,100,EE Ms Rida,C&ELab
+FA20-BSEE-B9A,Power Electronics,3,100,EE Dr Sohaib,C2.5
+FA20-BSEE-B9A,Microprocessor Systems and Interfacing,3,1,EE Mr Maulan Yasin,A2.1
+FA20-BSEE-B9A,Microprocessor Systems and Interfacing,3,10000,EE Mr Maulan Yasin,A2.2
+FA20-BSEE-B9A,Control Systems,3,1000,EE Ms Rida,Cisco Lab
+FA20-BSEE-B9A,Power Electronics,3,10,EE Mr Waqar Tahir,PowerElectronicsLab
+FA19-BSEE-B8A,Artificial Intelligence,3,100,EE Mr Asif Imran,A1.3
+FA19-BSEE-B8A,Artificial Intelligence,3,10000,EE Mr Asif Imran,A2.8
+FA19-BSEE-B8A,Artificial Intelligence,3,1000,EE Mr Asif Imran,C Lab4
+FA22-BBA-B31,ECC,3,101,MS Ms Mariam Azam,B3
+FA22-BBA-B31,Introduction to Business,3,1000,MS Mr Haris,B3
+SP22-BBA-B30,Introduction to Sociology,3,1,MS Mr Zia Hassan,B13
+SP22-BBA-B30,Introduction to Sociology,3,1000,MS Mr Zia Hassan,B14
+FA21-BBA-B29,Accounting II,3,10000,MS Mr Hafiz Yasir,B4
+FA21-BBA-B29,BCW,3,1000,MS Mr Badar Iqbal,B12
+SP21-BBA-B28,SI,3,100,CS Mr Fakhar,C1.4
+SP21-BBA-B28,Marketing Management,3,1000,MS Dr Junaid,B1
+SP21-BBA-B28,CA & MAC,3,10000,MS Mr Bilal Lodhi,B5
+SP21-BBA-B28,MIS,3,1,MS Dr Waqas,MS Lab
+FA20-BBA-B27 (A),POM,3,10000,MS Mr Haris,B7
+FA20-BBA-B27 (A),E-Commerce,3,1000,MS Mr Moazzam,B13
+FA20-BBA-B27 (A),RTT,3,100,MS Dr HM Arshad,B14
+FA20-BBA-B27 (B),RTT,3,10000,MS Dr HM Arshad,B14
+FA20-BBA-B27 (B),E-Commerce,3,100,MS Mr Moazzam,MS Lab
+SP20-BBA-B26,GBM,3,10000,MS Mr Shoaib Bajwa,B11
+SP20-BBA-B26,Introduction to Sociology,3,1,MS Mr Zia Hassan,B13
+SP20-BBA-B26,Introduction to Sociology,3,1000,MS Mr Zia Hassan,B14
+FA19-BBA-B25,AFM,3,1000,MS Mr Bilal Lodhi,B5
+FA19-BBA-B25,LTM,3,1000,MS Mr Shoaib Bajwa,B11
+FA19-BBA-B25,Corporate Law,3,1,MS Mr Suhail Qureshi,B11
+FA19-BBA-B25,Negotiation,3,100,MS Mr Ali Kirmani,B11
+SP19-BBA-B24,AFM,3,1000,MS Mr Bilal Lodhi,B5
+SP19-BBA-B24,BT & CT,3,100,MS Mr Hafiz Yasir,B5
+SP19-BBA-B24,LTM,3,1000,MS Mr Shoaib Bajwa,B11
+SP19-BBA-B24,Negotiation,3,100,MS Mr Ali Kirmani,B11
+SP21-BAF-B10,BT & CT,3,100,MS Mr Hafiz Yasir,B5
+SP21-BAF-B10,GBM,3,10000,MS Mr Shoaib Bajwa,B11
+SP21-BAF-B10,Corporate Law,3,1,MS Mr Suhail Qureshi,B11
+FA20-BAF-B9,AMA,3,1,MS Mr Bilal Lodhi,B1
+FA20-BAF-B9,AMA,3,100,MS Mr Bilal Lodhi,B6
+FA20-BAF-B9,Corporate Finance,3,1000,MS Mr Shoaib Sajjad,B10
+FA21-MBA-B3,CA & MAC,3,10000,MS Mr Bilal Lodhi,B5
+FA21-MBA-B3,BT & CT,3,100,MS Mr Hafiz Yasir,B5
+FA22-BS(English)-B1,Introduction to Poetry & Drama ,3,100,MS Mr Badar Iqbal,B12
+FA22-BS(English)-B1,English Comprehension and Composition,3,1,VS Ms Madeeha Dastageer,B14
+FA21-RMT-B5,Viscous Fluids-I,4,100,MT Dr Amar Rauf,C1
+FA21-RMT-B5,Viscous Fluids-I,4,10,MT Dr Amar Rauf,C1.1
+FA21-RMT-B5,Commutative Algebra,4,100,MT Dr Naeem,W1
+FA21-RMT-B5,Commutative Algebra,4,10,MT Dr Naeem,W2
+SP22-RMT B6,Topology,4,10000,MT Dr Raza,C1.3
+SP22-RMT B6,Elastodynamics,4,100,MT Dr Sabir,C1.3
+SP22-RMT B6,Advance topic in Graph theory,4,1010,MT Dr Misbah,C1.4
+FA22-RMT B7,Topology,4,10000,MT Dr Raza,C1.3
+FA22-RMT B7,Elastodynamics,4,100,MT Dr Sabir,C1.3
+FA22-RMT B7,Advance topic in Graph theory,4,1010,MT Dr Misbah,C1.4
+FA22-BSCVE-B6,Civil Engineering Drawing,4,1100,CVE Engr. Waqar Ahsan,Engineering Drawing Hall
+FA22-BSCVE-B6,Applied Electricity and Electronics,4,10000,EE Ms Sabeen,FYP Lab
+FA22-BSCVE-B6,Engineering Mechanics,4,10,CVE Engr. M. Yousaf Mushtaq,Mechanics Lab
+FA21-BSCVE-B5,Soil Mechanics,4,1000,CVE Engr. Hiba Arshad,Getechnical Engineering Lab
+FA21-BSCVE-B5,Plane Surveying,4,100,CVE Engr. H. M. Sohaib Yasin,Survey Lab
+FA21-BSCVE-B5,Elementary Fluid Mechanics,4,10000,CVE Engr. H. M. Sohaib Yasin,Hydraulics Lab
+FA20-BSCVE-B4,Engineering Economics,4,10000,ME Salman Mustafa,C1
+FA20-BSCVE-B4,Engineering Economics,4,10,ME Salman Mustafa,A2.2
+FA20-BSCVE-B4,Engineering Hydrology,4,100,CVE Engr. Tafheem Abbas,Engineering Mechanics Lab
+FA19-BSCVE-B3,Irrigation Engineering,4,10000,CVE Engr. Fayyaz Ulhaq,C2.4
+FA19-BSCVE-B3,Wastewater and Sanitary Engineering,4,10, CVE Dr.Sajjad Ahmad,A1.1
+FA19-BSCVE-B3,Quantity Surveying and Cost Estimation,4,1000,CVE Engr. Shad Muhammad,A1.2
+FA21-BSBI-B25,Data Structure,4,10,CS Dr Waqas,A1.3
+FA21-BSBI-B25,Discrete Mathematics,4,1000,MT Dr Omar,B10
+FA21-BSBI-B25,Discrete Mathematics,4,100,MT Dr Omar,W4
+FA21-BSBI-B25,Linux for Biological Sciences,4,10000,BI Ms Anum,C Lab1
+SP21-BSBI-B24,Introduction to Bioinformatics,4,100,BI Ms Areeba,C Lab2
+SP21-BSBI-B24,Object Oriented Programming,4,10000,EE Mr Munawar,MS Lab
+FA20-BSBI-B23,Bioinformatics Analysis,4,1000,BI Mr Saad,A1.1
+FA20-BSBI-B23,Bioinformatics Analysis,4,10000,BI Mr Saad,A2.2
+SP20-BSBI-B22,Statistics and Probability Theory,4,100,CS Mr Fakhar,C2.2
+SP20-BSBI-B22,Bioinformatics Scripting,4,10,BI Ms Hajira,C Lab1
+SP20-BSBI-B22,Artificial Intelligence,4,10000,EE Mr Asif Imran,C lab5
+FA19-BSBI-B21,Introduction to Genomics and Proteomics,4,10,BI Dr Qudsia,C2.3
+FA19-BSBI-B21,Bioinformatics Software Development,4,1000,CS Dr Tariq Shahzad,DigitalLab
+FA22-RBS,Developmental Biology,4,10000,BI Dr Asif,BIO Conference Room
+FA22-RBS,Recombinant DNA Technology,4,1100,BI Dr Asim,BIO Conference Room
+FA22-RBS,Trends in Genomics,4,10,BI Dr Azhar,BIO Conference Room
+FA22-FSN-B9-A,English Comprehension and Composition,4,100,MS Ms Mariam Azam,B3
+FA22-FSN-B9-A,Introduction to Computing,4,10000,EE Dr Ghulam Farid,B14
+FA22-FSN-B9-A,Principal of Human Nutrition,4,10,BI Dr Abrar,W1
+FA22-FSN-B9-A,Introduction to Computing,4,1000,EE Mr Rao Kashif,C Lab3
+FA22-FSN-B9-B,Principal of Human Nutrition,4,1000,BI Dr Abrar,C1.2
+FA22-FSN-B9-B,English Comprehension and Composition,4,10000,VS Ms Madeeha Dastageer,C2.5
+F22-BCH-B1,English Comprehension and Composition,4,10000,VS Ms Madeeha Dastageer,C2.5
+F22-BCH-B1,Introduction to Bioinformatics,4,100,BI Ms Areeba,C Lab2
+SP22-FSN-B8,Introduction to Food Chemistry,4,1000,BI Dr Qudsia,C1
+SP22-FSN-B8,Cereal Science,4,10000,BI Ms Areeba,Bio Lab
+FA21-FSN-B7,Fundamental of Biotechnology,4,10,BI Ms Tamsila,C2.4
+SP21-FSN-B6,Food Fermentation and Biotechnology,4,100,BI Dr Hammad,A1.1
+SP21-FSN-B6,Confectionery and Snack Food,4,10000,BI Ms Kanza,FSN Lab
+FA20-FSN-B5-A,Food Process Engineering,4,1000,BI Ms Anusha,Bio Lab
+FA20-FSN-B5-A,Poultry and egg processing,4,100,BI Mr Imran,Bio Lab
+FA20-FSN-B5-A,Sensory Evaluation of Foods,4,10,BI Ms Kanza,FSN Lab
+FA20-FSN-B5-B,Food Laws and Regulations,4,1000,BI Dr Shahzad Saleem,C3
+FA20-FSN-B5-B,Sensory Evaluation of Foods,4,10,BI Dr Nadeem,C5
+FA20-FSN-B5-B,Food Laws and Regulations,4,100,BI Dr Shahzad Saleem,C5
+FA20-FSN-B5-B,New product development,4,10000,MS Ms Sadaf Noor,B8
+SP20-FSN-B4,Nutritional Counselling,4,10,BI Dr Adnan,C2.2
+SP20-FSN-B4,Metabolism,4,1000,BI Dr Hasan,C2.2
+FA19-FSN-B3-AB,Processing of Fruits and Vegetables,4,10000,BI Dr Asim,C1.4
+FA19-FSN-B3-AB,Sugar and Beverage Technology,4,100,BI Dr Wasim,B12
+FA19-FSN-B3-AB,Food Microbiology,4,10,BI Mr Imran,Bio Lab
+FA19-FSN-B3-AB,Sugar and Beverage Technology,4,1000,BI Ms Kanza,FSN Lab
+FA22-BSME-B18-A,Applied Physics for Mechanical Engineers,4,100,ME Mr. Jawad Abid,PhyLab
+FA22-BSME-B18-A,Applied Physics for Mechanical Engineers,4,100,ME Mr. Ghulam Mustafa,PhyLab
+FA21-BSME-B17-A,Engineering Dynamics,4,100,ME Mr. Muzammil,A2.1
+FA21-BSME-B17-A,Differential Equations,4,10000,MT Dr Hameed Ullah,W2
+FA21-BSME-B17-A,Engineering Mechanics,4,1000,ME Ms. Saba Gull,Mechanics Lab
+FA21-BSME-B17-A,Engineering Mechanics,4,1000,ME Ms. Sara Batool,Mechanics Lab
+FA21-BSME-B17-A,Thermodynamics II,4,10,ME Mr. Hassan Iqbal,Vibrations Lab
+FA20-BSME-B16-A,Engineering Fluid Mechanics II,4,100,ME Mr. Hassan Iqbal,A1.2
+FA20-BSME-B16-A,Electric Machines,4,10000,ME Ms. Saba Gull,Electric Machines Lab
+FA20-BSME-B16-A,Electric Machines,4,10000,ME Mr. Zafar Farooq,Electric Machines Lab
+FA19-BSME-B15-A,CAD CAM,4,1000,ME Mr. Ali Zahid,CAD CAM Lab
+FA19-BSME-B15-A,Heat Transfer and HVAC,4,10,ME Mr. Aamir Shehzad,HMT Lab
+FA19-BSME-B15-A,Heat Transfer and HVAC,4,10,ME Mr. Muhammad Naveed,HMT Lab
+FA19-BSME-B15-B,Air Conditioning and Refrigeration,4,1000,ME Mr. Hafeez Ahmad,A3
+FA19-BSME-B15-B,Air Conditioning and Refrigeration,4,100,ME Mr. Hafeez Ahmad,A1.3
+FA19-BSME-B15-B,CAD  CAM (1hr),4,10000,ME Mr. Khawar Hussain,A2.1
+FA22-RCS-1-A-SP22-RCS-2-A,Advanced Algorithms Analysis,4,10,CS Dr. Zafar Iqbal Roy,C4
+FA22-RCS-1-A-SP22-RCS-2-A,Advanced Topics in Data Mining,4,1000,CS Dr. Muhammad Shoaib,C4
+FA22-RCS-1-A-SP22-RCS-2-A,Formal Methods and Semantics,4,10100,CS Prof. Dr. Nazir Ahmad Zafar,A3
+SP19-BCS-8-A,Professional Practics for IT,4,1000,EE Mr Hafiz Zeeshan,A1.3
+SP19-BCS-8-A,Electricity Magnetism and Optics,4,100,EE Mr Rao Kashif,FYP Lab
+FA19-BCS-7-A,Artificial Intelligence,4,1000,CS Ms. Tahreem Saeed,C2
+FA19-BCS-7-A,Artificial Intelligence,4,100,CS Ms. Zamzam Darwesh,Cisco Lab
+FA19-BCS-7-B,Compiler Construction,4,100,CS Mr. Yawar Abbas Abid,C1.2
+SP20-BCS-6-A,Machine Learning,4,100,CS Ms Azka,C2.4
+SP20-BCS-6-A,Machine Learning,4,10,CS Ms Azka,C2.5
+SP20-BCS-6-A,Electricity Magnetism and Optics,4,1000,CS Dr Abuzar,W1
+SP20-BCS-6-B,Machine Learning,4,100,CS Ms Azka,C2.4
+SP20-BCS-6-B,Machine Learning,4,10,CS Ms Azka,C2.5
+SP20-BCS-6-B,Electricity Magnetism and Optics,4,1000,CS Dr Abuzar,W1
+FA20-BCS-5-A,Data Communication and Computer Networks,4,10,CS Dr Saqlain,B10
+FA20-BCS-5-A,Introduction to the ICT,4,100,EE Ms Rida,C lab5
+FA20-BCS-5-A,Data Communication and Computer Networks,4,1000,EE Asad Ali Khan,C lab5
+FA20-BCS-5-B,Introduction to the ICT,4,10,EE Dr Talha Younas,C2
+FA20-BCS-5-B,Software Design Methodologies,4,10000,CS Dr Waqas,B6
+FA20-BCS-5-B,Introduction to the ICT,4,100,EE Mr Asim Noon,DigitalLab
+FA20-BCS-5-C,Software Design Methodologies,4,10,CS Mr. Ahmad Shaf,A1.2
+FA20-BCS-5-C,Data Communication and Computer Networks,4,10000,CS Dr Abuzar,A1.2
+FA20-BCS-5-C,Game Development,4,1000,CS Mr. Ali Sher Kashif,C Lab2
+FA20-BCS-5-C,Operating System,4,100,EE Mr Amir Sabri,C Lab4
+SP21-BCS-4-A,Software Engineering Concepts,4,100,CS Ms. Madiha Fatima,C4
+SP21-BCS-4-A,Microprocessor and Assembly Language,4,1000,EE Mr Maulan Yasin,W4
+SP21-BCS-4-B,Software Engineering Concepts,4,100,CS Ms. Madiha Fatima,C4
+SP21-BCS-4-B,Database Systems I,4,10,CS Mr. Tariq Rafiq,C1.3
+SP21-BCS-4-B,Microprocessor and Assembly Language,4,1000,EE Mr Maulan Yasin,W4
+FA21-BCS-3-A,Digital Logic Design,4,10000,EE Mr Waqar Tahir,DLD Lab
+FA21-BCS-3-B,Communication Skills,4,10,ME Dr. Tauqeer Anwar,B4
+FA21-BCS-3-B,Communication Skills,4,1000,ME Dr. Tauqeer Anwar,B13
+FA21-BCS-3-B,Object Oriented Programming,4,10000,CS Mr. Muhammad Jamshaid Iqbal,Cisco Lab
+FA21-BCS-3-B,Digital Logic Design,4,100,EE Mr Waqar Tahir,DLD Lab
+FA21-BCS-3-C,Object Oriented Programming,4,100,CS Mr. Usman Ali,C2.3
+FA21-BCS-3-C,Software Engineering Concepts,4,1000,CS Mr. Muhammad Usman Nasir,B9
+FA21-BCS-3-C,Object Oriented Programming,4,10,CS Mr. Shahzad Ahmad,Cisco Lab
+FA21-BCS-3-D,Digital Logic Design,4,1000,EE Dr Musab,C1.3
+SP22-BCS-2-A,Discrete Structures,4,10000,CS Ms Sana,C4
+SP22-BCS-2-A,Programming Fundamentals,4,100,CS Dr. Javed Ferzund,C2.5
+SP22-BCS-2-A,Calculus-I,4,1000,MT Dr Sami Ullah,A2.2
+SP22-BCS-2-A,Digital Logic Design,4,10,EE Mr Ahsan Maqsood,DLD Lab
+SP22-BCS-2-B,Discrete Structures,4,1000,CS Ms Sana,W3
+SP22-BCS-2-C,Programming Fundamentals,4,10000,CS Mr. Syed Ameer Ahmed,C2
+SP22-BCS-2-C,Introduction to Business,4,1000,MS Ms Abida Parveen,B3
+SP22-BCS-2-C,Programming Fundamentals,4,10,CS Mr Osama Ahmad,C Lab3
+SP22-BCS-2-D,Digital Logic Design,4,10,EE Mr Khalid Majeed,C3
+SP22-BCS-2-D,Programming Fundamentals,4,100,CS Mr Osama Ahmad,C Lab1
+SP22-BCS-2-D,Digital Logic Design,4,1000,EE Mr Ahsan Maqsood,DLD Lab
+FA22-BCS-1-A,ECC,4,1000,CVE Saima Batool,C2.5
+FA22-BCS-1-B,Introduction to the ICT,4,100,CS Dr Saeeda Usman,B14
+FA22-BCS-1-B,Introduction to the ICT,4,10,EE Mr Abdul Khaliq,CAD CAM Lab
+FA22-BCS-1-C,Introduction to the ICT,4,1000,EE Mr Abdul Khaliq,C Lab4
+FA22-BCS-1-C,Applied Physics for Engineers,4,10,ME Mr. Yasir Raza,PhyLab
+FA22-BCS-1-D,ECC,4,10,MS Ms Abida Parveen,B12
+FA22-BCS-1-D,Pre-Calculas-1,4,100,CS Ms Shaheen,W2
+FA22-BCS-1-D,Introduction to the ICT,4,10000,CS Mr Usman Nasim,C Lab4
+SP19-BSE-8-A,Numerical Computations,4,1000,MT Dr Nauman,C2.4
+SP19-BSE-8-A,Software Testing,4,10,CS Mr. Muhammad Jamshaid Iqbal,C Lab2
+FA19-BSE-7-A,Human Computer Interaction,4,1000,CS Mr. Ahmad Shaf,W2
+FA19-BSE-7-B,Software Project Management,4,10000,CS Ms. Mubeen Javed,A1.1
+FA19-BSE-7-B,Human Computer Interaction,4,1000,CS Mr. Ahmad Shaf,W2
+FA19-BSE-7-B,Software Project Management,4,100,CS Ms. Aniqa Khawar,CAD CAM Lab
+SP20-BSE-6-A,Information Security,4,100,CS Dr. Tariq Ali,C1.1
+SP20-BSE-6-A,Software Project Management,4,10,CS Ms. Madiha Fatima,C1.2
+FA20-BSE-5-A,Design Patterns,4,100,CS Dr. Muhammad Farhan,C2
+FA20-BSE-5-A,Operating System concepts,4,10000,CS Mr. Muhammad Shafqat,C Lab3
+FA20-BSE-5-B,Operating System concepts,4,10000,CS Mr. Muhammad Umar,C5
+FA20-BSE-5-B,Software Requirement Engineering,4,1000,CS Ms. Madiha Fatima,B7
+FA20-BSE-5-B,Introduction to Business,4,10,MS Ms Sadaf Noor,B13
+FA20-BSE-5-B,Web Technologies,4,100,CS Mr. Muhammad Aamir,C Lab3
+FA20-BSE-5-C,Web Technologies,4,100,CS Ms. Syda Fatima,C1.4
+FA20-BSE-5-C,Statistics and Probability Theory,4,10000,MT Dr Manzoor,C2.3
+FA20-BSE-5-C,Software Requirement Engineering,4,1000,CS Ms. Madiha Fatima,B7
+FA20-BSE-5-C,Statistics and Probability Theory,4,10,MT Dr Manzoor,W3
+SP21-BSE-4-A,Game Development,4,100,CS Mr. Ali Sher Kashif,C3
+SP21-BSE-4-A,Multivariable Calculus,4,10010,MT Dr Asma,W4
+SP21-BSE-4-A,Database Systems I,4,1000,CS Mr. Shahzad Ahmad,C Lab1
+FA21-BSE-3-A,Linear Algebra,4,1000,MT Dr Najma,C5
+FA21-BSE-3-A,Introduction to Software Engineering,4,10,CS Ms. Aniqa Khawar,C Lab4
+FA21-BSE-3-A,Object Oriented Programming,4,100,CS Mr. Shahzad Ahmad,MS Lab
+FA21-BSE-3-B,Introduction to Software Engineering,4,10000,CS Ms. Aniqa Khawar,C Lab2
+FA21-BSE-3-C,Data Communication and Computer Networks,4,1000,EE Mr Asif Imran,A2.8
+SP22-BSE-2-A,Programming Fundamentals,4,1000,CS Mr. Syed Ameer Ahmed,C1.1
+SP22-BSE-2-A,Professional Practics for IT,4,100,EE Mr Hafiz Zeeshan,A2.8
+SP22-BSE-2-A,Programming Fundamentals,4,10000,EE Mr Abdul Khaliq,CAD CAM Lab
+FA22-BSE-1-A,Introduction to the ICT,4,10000,EE Mr Maulan Yasin,A1.3
+FA22-BSE-1-A,Pre-Calculas-1,4,100,CS Ms Shaheen,W2
+FA22-BSE-1-A,Introduction to the ICT,4,10,EE Mr Asim Noon,C lab5
+FA22-BSE-1-B,Pre-Calculas-1,4,100,CS Ms Shaheen,W2
+FA22-BSE-1-B,Applied Physics for Engineers,4,1000,ME Mr. Jawad Abid,PhyLab
+FA22-BSEE-B11A,Applied Physics for Engineers,4,10000,EE Mr Asim Noon,PhyLab
+FA21-BSEE-B10A,Electronics I,4,10,CS Dr Saeeda Usman,A2.1
+FA21-BSEE-B10A,Object Oriented Programming,4,10000,EE Mr Munawar,MS Lab
+FA21-BSEE-B10A,Electronics I,4,1000,EE Mr Waqar Tahir,C&ELab
+FA20-BSEE-B9A,Principles of Communication Systems,4,100,CS Dr Saqlain,A2.2
+FA20-BSEE-B9A,Control Systems,4,1000,EE Ms Rida,Cisco Lab
+FA20-BSEE-B9A,Microprocessor Systems and Interfacing,4,10,EE Ms Rida,DigitalLab
+FA19-BSEE-B8A,Numerical Computations,4,1000,CS Ms Amna,A2.1
+FA19-BSEE-B8A,Real Time Embedded Systems,4,10,EE Dr Ghulam Farid,A2.8
+FA19-BSEE-B8A,Artificial Intelligence,4,10000,EE Mr Asif Imran,C lab5
+FA22-BBA-B31,Micro ECO,4,100,MS Ms Sonia,B7
+FA22-BBA-B31,Introduction to Computing,4,1000,MS Mr Hasan Rafiq,MS Lab
+SP22-BBA-B30,Business Mathematics I,4,10,CS Ms Nosheen Ramzan,B7
+SP22-BBA-B30,Fundamentals of Marketing,4,1000,MS Dr Binesh,B12
+SP22-BBA-B30,Fundamentals of Marketing,4,10000,MS Dr Binesh,B13
+FA21-BBA-B29,Introduction to Statistics,4,10000,MS Mr Hasan Rafiq,B12
+SP21-BBA-B28,HRM,4,10,MS Mr Shoaib Bajwa,B11
+FA20-BBA-B27 (A),IFA,4,1000,MS Mr Bilal Lodhi,B4
+FA20-BBA-B27 (A),POM,4,10,MS Mr Haris,B6
+FA20-BBA-B27 (A),MR,4,1000,MS Dr Junaid,B14
+FA20-BBA-B27 (B),POM,4,100,MS Mr Haris,B1
+FA20-BBA-B27 (B),IFA,4,1000,MS Mr Bilal Lodhi,B4
+FA20-BBA-B27 (B),MR,4,1000,MS Dr Junaid,B14
+FA20-BBA-B27 (B),E-Commerce,4,10,MS Mr Moazzam,MS Lab
+SP20-BBA-B26,OB,4,10000,MS Mr Shoaib Sajjad,B1
+SP20-BBA-B26,IFA,4,1000,MS Mr Bilal Lodhi,B4
+SP20-BBA-B26,OB,4,100,MS Mr Shoaib Sajjad,B5
+SP20-BBA-B26,MR,4,1000,MS Dr Junaid,B14
+FA19-BBA-B25,AFM,4,10,MS Mr Bilal Lodhi,B1
+FA19-BBA-B25,Corporate Governance,4,10000,MS Mr Ali Kirmani,B5
+FA19-BBA-B25,SFM & SiM,4,100,MS Dr Waqas,B6
+FA19-BBA-B25,IMC,4,1000,MS Dr Rahib,B8
+FA19-BBA-B25,IMC,4,10,MS Dr Rahib,B9
+SP19-BBA-B24,AFM,4,10,MS Mr Bilal Lodhi,B1
+SP19-BBA-B24,SHRM,4,100,MS Dr Asrar ul Haq,B4
+SP19-BBA-B24,SFM & SiM,4,100,MS Dr Waqas,B6
+SP19-BBA-B24,Project Management,4,10000,MS Mr Haris,B7
+SP19-BBA-B24,IMC,4,1000,MS Dr Rahib,B8
+SP19-BBA-B24,IMC,4,10,MS Dr Rahib,B9
+SP21-BAF-B10,Auditing,4,10000,MS Mr Hafiz Yasir,B3
+SP21-BAF-B10,IFA,4,1000,MS Mr Bilal Lodhi,B4
+SP21-BAF-B10,ETP,4,100,MS Ms Zunaira,B11
+FA20-BAF-B9,Auditing,4,10000,MS Mr Hafiz Yasir,B3
+FA20-BAF-B9,Corporate Finance,4,10,MS Mr Shoaib Sajjad,B5
+FA20-BAF-B9,ETP,4,100,MS Ms Zunaira,B11
+SP21-MBA-B2,OB,4,10000,MS Mr Shoaib Sajjad,B1
+SP21-MBA-B2,SFM & ISP,4,10000,MS Dr QZ Malik,B4
+SP21-MBA-B2,OB,4,100,MS Mr Shoaib Sajjad,B5
+SP21-MBA-B2,IMC,4,1000,MS Dr Rahib,B8
+SP21-MBA-B2,IMC,4,10,MS Dr Rahib,B9
+FA22-RMS-B16,Statistical Inference & Research Methodology,4,1000,MS Dr HM Arshad,Seminar Room
+FA22-RMS-B16,Advanced Marketing,4,10000,MS Dr Junaid,Seminar Room
+FA22-RMS-B16,Finance Theory & Practice,4,100,MS Dr Khurram,Seminar Room
+FA22-RMS-B16,Issues in Strategic Management,4,10,MS Dr Muzhar,Seminar Room
+SP22-RMS-B15,SFM & ISP,4,10000,MS Dr QZ Malik,B4
+SP22-RMS-B15,Advanced Topics in International Finance,4,1000,MS Dr Khurram,B6
+SP22-RMS-B15,SFM & SiM,4,100,MS Dr Waqas,B6
+SP22-RMS-B15,IMC,4,1000,MS Dr Rahib,B8
+SP22-RMS-B15,EMF,4,10,MS Mr Suhail Qureshi,B8
+SP22-RMS-B15,IMC,4,10,MS Dr Rahib,B9
+SP22-RMS-B15,EMF,4,100,MS Mr Suhail Qureshi,B10
+FA22-BS(English)-B1,English Comprehension and Composition,4,10000,VS Ms Madeeha Dastageer,C2.5
+FA22-BS(English)-B1,Introduction to Linguistics ,4,10,MS Ms Mariam Azam,B3
+FA22-BS(English)-B1,Introduction to Computing,4,1000,MS Mr Hasan Rafiq,MS Lab
+SP22-RMT B6,Topology,5,1000,MT Dr Raza,C1.3
+SP22-RMT B6,Elastodynamics,5,10000,MT Dr Sabir,C1.3
+SP22-RMT B6,Integral Inequalities,5,100,MT Dr Shahid,C1.3
+SP22-RMT B6,Integral Inequalities,5,10,MT Dr Shahid,C1.4
+FA22-RMT B7,Topology,5,1000,MT Dr Raza,C1.3
+FA22-RMT B7,Elastodynamics,5,10000,MT Dr Sabir,C1.3
+FA22-RMT B7,Integral Inequalities,5,100,MT Dr Shahid,C1.3
+FA22-RMT B7,Integral Inequalities,5,10,MT Dr Shahid,C1.4
+FA22-BSCVE-B6,Civil Engineering Drawing,5,1100,CVE Engr. Waqar Ahsan,Engineering Drawing Hall
+FA22-BSCVE-B6,Applied Electricity and Electronics,5,10000,EE Ms Sabeen,FYP Lab
+FA21-BSCVE-B5,Mechanics of Solids-I,5,100,CVE Engr. Shad Muhammad,A3
+FA21-BSCVE-B5,Introduction to Architecture and Town Planning,5,10,CVE Dr Nazam Ali,A3
+FA21-BSCVE-B5,Mechanics of Solids-I,5,1,CVE Engr. Shad Muhammad,A2.1
+FA21-BSCVE-B5,Professional Ethics,5,10000, CVE Dr.Sajjad Ahmad,W2
+FA21-BSCVE-B5,Soil Mechanics,5,1000,CVE Engr. Hiba Arshad,Getechnical Engineering Lab
+FA20-BSCVE-B4,Indeterminate Structural Analysis,5,1000,CVE Engr. M. Yousaf Mushtaq,A2.2
+FA20-BSCVE-B4,Engineering Hydrology,5,10,CVE Engr. Tafheem Abbas,Engineering Mechanics Lab
+FA19-BSCVE-B3,Final Year Project (Part I),5,1000,TBD,
+FA19-BSCVE-B3,Elective-I (Geo-Informatics),5,10000,CVE Engr. Dr. Ammar Ashraf,C5
+FA19-BSCVE-B3,Elective-I (Geo-Informatics),5,100,CVE Engr. Dr. Ammar Ashraf,B8
+FA19-BSCVE-B3,Elective-I (Geo-Informatics),5,1,CVE Engr. H. M. Sohaib Yasin,C lab5
+FA21-BSBI-B25,Linux for Biological Sciences,5,10,BI Ms Anum,C2.2
+FA21-BSBI-B25,Linux for Biological Sciences,5,10000,BI Ms Anum,C Lab1
+SP21-BSBI-B24,Microbiology and Immunology,5,100,BI Dr Awais,C2.3
+SP21-BSBI-B24,Introduction to Bioinformatics,5,1000,BI Dr Farrukh,A2.1
+FA20-BSBI-B23,Biotechnolog,5,100,BI Ms Tamsila,C1
+FA20-BSBI-B23,Biotechnolog,5,1000,BI Ms Tamsila,C2
+FA20-BSBI-B23,Bioinformatics Database Development,5,10,BI Ms Hajira,C Lab1
+SP20-BSBI-B22,Modern Programming Languages,5,1000,EE Mr Munawar,C5
+SP20-BSBI-B22,Structural and Functional Bioinformatics,5,10000,BI Mr Saad,A1.2
+SP20-BSBI-B22,Structural and Functional Bioinformatics,5,100,BI Mr Saad,A2.2
+SP20-BSBI-B22,Modern Programming Languages,5,1,EE Mr Amir Sabri,CAD CAM Lab
+FA19-BSBI-B21,Web Engineering,5,100,CS Dr Waqas,C1.2
+FA19-BSBI-B21,Web Engineering,5,1000,CS Dr Waqas,A1.3
+FA19-BSBI-B21,Bioinformatics Software Development,5,10,CS Dr Tariq Shahzad,A2.8
+FA22-RBS,Advances in Molecular Biology,5,10100,BI Dr Farrukh,BIO Conference Room
+FA22-RBS,Developmental Biology,5,10,BI Dr Asif,BIO Conference Room
+FA22-RBS,Trends in Genomics,5,1000,BI Dr Azhar,BIO Conference Room
+FA22-FSN-B9-A,Introduction to Computing,5,1000,EE Mr Rao Kashif,C Lab3
+FA22-FSN-B9-B,Introduction to Computing,5,100,EE Ms Maham,A1.2
+FA22-FSN-B9-B,Principal of Human Nutrition,5,10,BI Dr Abrar,B14
+F22-BCH-B1,Introduction to Computing,5,100,EE Ms Maham,A1.2
+F22-BCH-B1,Introduction to Bioinformatics,5,1000,BI Dr Farrukh,A2.1
+SP22-FSN-B8,Cereal Science,5,1000,BI Dr Wasim,C1.2
+SP22-FSN-B8,Cereal Science,5,10000,BI Ms Areeba,Bio Lab
+FA21-FSN-B7,Techniques in Food Processing and preservation,5,1000,BI Dr Nadeem,A3
+FA21-FSN-B7,Techniques in Food Processing and preservation,5,10,BI Dr Nadeem,A1.3
+FA21-FSN-B7,Nutritional Requirements at Different Ages,5,10000,BI Dr Shahzad Saleem,B6
+FA21-FSN-B7,Food Analysis,5,100,BI Dr Hammad,W4
+SP21-FSN-B6,Minerals and Vitamins,5,10,BI Dr Hasan,C2.3
+SP21-FSN-B6,Minerals and Vitamins,5,100,BI Dr Hasan,A1.1
+SP21-FSN-B6,Confectionery and Snack Food,5,10000,BI Ms Kanza,FSN Lab
+FA20-FSN-B5-A,Inherited Nutrition Disorder,5,10000,BI Dr Zeshan,C4
+FA20-FSN-B5-A,Food Process Engineering,5,1000,BI Ms Anusha,Bio Lab
+FA20-FSN-B5-A,Poultry and egg processing,5,100,BI Mr Imran,Bio Lab
+FA20-FSN-B5-A,Sensory Evaluation of Foods,5,10,BI Ms Kanza,FSN Lab
+FA20-FSN-B5-B,New product development,5,10,MS Ms Sadaf Noor,B3
+FA20-FSN-B5-B,Food Process Engineering,5,100,ME Dr. Muneeb Qasim,B6
+FA20-FSN-B5-B,Food Process Engineering,5,1000,ME Dr. Muneeb Qasim,W3
+SP20-FSN-B4,Community Nutrition,5,100,BI Dr Zeshan,C2.2
+SP20-FSN-B4,Nutritional Counselling,5,1000,BI Dr Adnan,C2.5
+SP20-FSN-B4,Nutrition in Emergency,5,10000,BI Dr Wasim,A2.2
+FA19-FSN-B3-AB,Functional and Nutraceutical Foods,5,10,BI Mr Saad,C2.4
+FA19-FSN-B3-AB,Food Toxicology and Safety,5,10000,BI Dr Awais,W4
+FA19-FSN-B3-AB,Sugar and Beverage Technology,5,1000,BI Ms Kanza,FSN Lab
+FA22-BSME-B18-A,English Comprehension and Composition,5,10000,CVE Saima Batool,A3
+FA22-BSME-B18-A,Introduction to Computer Programming,5,10,ME Dr. Muhammad Abid,A2.2
+FA22-BSME-B18-A,Applied Physics for Mechanical Engineers,5,100,ME Mr. Jawad Abid,PhyLab
+FA22-BSME-B18-A,Applied Physics for Mechanical Engineers,5,100,ME Mr. Ghulam Mustafa,PhyLab
+FA21-BSME-B17-A,Engineering Dynamics,5,10,ME Mr. Muzammil,A1.2
+FA21-BSME-B17-A,Engineering Mechanics,5,1000,ME Ms. Saba Gull,Mechanics Lab
+FA21-BSME-B17-A,Engineering Mechanics,5,1000,ME Ms. Sara Batool,Mechanics Lab
+FA20-BSME-B16-A,Engineering Management and Economics,5,110,ME Dr. Salman Mustafa,W3
+FA20-BSME-B16-A,Electric Machines,5,10000,ME Ms. Saba Gull,Electric Machines Lab
+FA20-BSME-B16-A,Electric Machines,5,10000,ME Mr. Zafar Farooq,Electric Machines Lab
+FA19-BSME-B15-A,CAD  CAM (1hr),5,100,ME Mr. Khawar Hussain,A2.1
+FA19-BSME-B15-A,CAD CAM,5,1000,ME Mr. Ali Zahid,CAD CAM Lab
+FA19-BSME-B15-A,Heat Transfer and HVAC,5,10,ME Mr. Aamir Shehzad,HMT Lab
+FA19-BSME-B15-A,Heat Transfer and HVAC,5,10,ME Mr. Muhammad Naveed,HMT Lab
+FA19-BSME-B15-B,Mechanical Vibrations,5,1000,ME Mr. Khawar Hussain,A1.2
+FA22-RCS-1-A-SP22-RCS-2-A,Big Data Analytics,5,10000,CS Dr. Javed Ferzund,C1
+FA22-RCS-1-A-SP22-RCS-2-A,Internet of Things Architecture and Protocols,5,10,CS Dr. Tariq Ali,C4
+FA22-RCS-1-A-SP22-RCS-2-A,Advanced Algorithms Analysis,5,1000,CS Dr. Zafar Iqbal Roy,C4
+FA22-RCS-1-A-SP22-RCS-2-A,Advanced Topics in Data Mining,5,100,CS Dr. Muhammad Shoaib,C2.5
+SP19-BCS-8-A,Electricity Magnetism and Optics,5,100,EE Mr Rao Kashif,FYP Lab
+FA19-BCS-7-A,Compiler Construction,5,1000,CS Mr. Yawar Abbas Abid,C1
+FA19-BCS-7-A,Human Computer Interaction,5,10,CS Ms. Raheela Shahzadi,C2
+FA19-BCS-7-A,Artificial Intelligence,5,100,CS Ms. Zamzam Darwesh,Cisco Lab
+FA19-BCS-7-B,Artificial Intelligence,5,10,CS Ms. Tahreem Saeed,C5
+FA19-BCS-7-B,Compiler Construction,5,10000,CS Mr. Yawar Abbas Abid,C1.4
+FA19-BCS-7-B,Computer Vision,5,100,CS Ms. Raheela Shahzadi,W1
+FA19-BCS-7-B,Artificial Intelligence,5,1000,CS Ms. Tahreem Saeed,C Lab2
+FA19-BCS-7-B,Human Computer Interaction,5,1,CS Ms. Amina Hussain,Cisco Lab
+SP20-BCS-6-A,Automata Theory,5,10,CS Mr. Yawar Abbas Abid,C1.2
+SP20-BCS-6-A,Electricity Magnetism and Optics,5,10000,CS Dr Abuzar,W1
+SP20-BCS-6-B,Automata Theory,5,10,CS Mr. Yawar Abbas Abid,C1.2
+SP20-BCS-6-B,Electricity Magnetism and Optics,5,10000,CS Dr Abuzar,W1
+FA20-BCS-5-A,Game Development,5,10000,CS Mr. Ali Sher Kashif,C lab5
+FA20-BCS-5-A,Introduction to the ICT,5,100,EE Ms Rida,C lab5
+FA20-BCS-5-A,Data Communication and Computer Networks,5,1000,EE Asad Ali Khan,C lab5
+FA20-BCS-5-B,Computer Architecture,5,10000,EE Dr Saqib Saleem,C1.2
+FA20-BCS-5-B,Game Development,5,1000,CS Mr. Ali Sher Kashif,C2.2
+FA20-BCS-5-B,Introduction to the ICT,5,100,EE Mr Asim Noon,DigitalLab
+FA20-BCS-5-C,Software Design Methodologies,5,1,CS Mr. Ahmad Shaf,C5
+FA20-BCS-5-C,Introduction to the ICT,5,10,EE Dr Talha Younas,C1.1
+FA20-BCS-5-C,Operating Systems,5,1000,CS Ms. Uzma Latif,B5
+FA20-BCS-5-C,Operating System,5,100,EE Mr Amir Sabri,C Lab4
+SP21-BCS-4-A,Database Systems I,5,10000,CS Mr. Tariq Rafiq,C2.2
+SP21-BCS-4-A,Introduction to Management,5,10,MS Mr Bilal Mian,B7
+SP21-BCS-4-A,Microprocessor and Assembly Language,5,100,EE Mr Abdul Khaliq,C Lab2
+SP21-BCS-4-B,Data Structures,5,10000,CS Dr. Zafar Iqbal Roy,C2.3
+SP21-BCS-4-B,Introduction to Management,5,10,MS Mr Bilal Mian,B7
+SP21-BCS-4-B,Microprocessor and Assembly Language,5,100,EE Mr Abdul Khaliq,C Lab2
+FA21-BCS-3-A,Object Oriented Programming,5,100,CS Mr. Usman Ali,C2.4
+FA21-BCS-3-A,Software Engineering Concepts,5,10000,CS Mr. Muhammad Usman Nasir,C2.5
+FA21-BCS-3-A,Communication Skills,5,10,EE Dr Sohaib,A1.1
+FA21-BCS-3-A,Calculus and Analytical Geometry,5,1000,MT Dr Afshan,W1
+FA21-BCS-3-B,Digital Logic Design,5,10,CS Mr Usman Nasim,B5
+FA21-BCS-3-B,Software Engineering Concepts,5,100,CS Mr. Muhammad Usman Nasir,B10
+FA21-BCS-3-B,Calculus and Analytical Geometry,5,1000,MT Dr Afshan,W1
+FA21-BCS-3-B,Object Oriented Programming,5,10000,CS Mr. Muhammad Jamshaid Iqbal,Cisco Lab
+FA21-BCS-3-C,Calculus and Analytical Geometry,5,1000,MT Dr Afshan,W1
+FA21-BCS-3-C,Object Oriented Programming,5,10,CS Mr. Shahzad Ahmad,Cisco Lab
+FA21-BCS-3-D,Object Oriented Programming,5,10000,CS Mr. Syed Nasir Mehdi,C2.4
+FA21-BCS-3-D,Digital Logic Design,5,10,EE Dr Musab,B6
+FA21-BCS-3-D,Calculus and Analytical Geometry,5,1000,MT Dr Afshan,W1
+SP22-BCS-2-A,Digital Logic Design,5,10000,EE Dr Musab,W3
+SP22-BCS-2-B,Programming Fundamentals,5,1000,CS Dr. Javed Ferzund,C1.4
+SP22-BCS-2-B,Digital Logic Design,5,100,EE Mr Khalid Majeed,W2
+SP22-BCS-2-B,Digital Logic Design,5,10010,EE Mr Ahsan Maqsood,DLD Lab
+SP22-BCS-2-C,Programming Fundamentals,5,10,CS Mr Osama Ahmad,C Lab3
+SP22-BCS-2-D,Introduction to Business,5,10000,MS Ms Sadaf Noor,B3
+SP22-BCS-2-D,Programming Fundamentals,5,100,CS Mr Osama Ahmad,C Lab1
+SP22-BCS-2-D,Digital Logic Design,5,1000,EE Mr Ahsan Maqsood,DLD Lab
+FA22-BCS-1-A,Pre-Calculas-1,5,100,CS Ms Shaheen,B9
+FA22-BCS-1-A,Pre-Calculas-1,5,1000,CS Ms Shaheen,B14
+FA22-BCS-1-A,Introduction to the ICT,5,10000,EE Ms Maham,DigitalLab
+FA22-BCS-1-B,Applied Physics for Engineers,5,10,EE Ms Sabeen,A2.1
+FA22-BCS-1-B,Pre-Calculas-1,5,100,CS Ms Shaheen,B9
+FA22-BCS-1-B,Pre-Calculas-1,5,1000,CS Ms Shaheen,B14
+FA22-BCS-1-C,Applied Physics for Engineers,5,10000,ME Mr. Ghulam Mustafa,A2.1
+FA22-BCS-1-C,Pre-Calculas-1,5,100,CS Ms Shaheen,B9
+FA22-BCS-1-C,Pre-Calculas-1,5,1000,CS Ms Shaheen,B14
+FA22-BCS-1-C,Applied Physics for Engineers,5,10,ME Mr. Yasir Raza,PhyLab
+FA22-BCS-1-D,Applied Physics for Engineers,5,100,ME Mr. Zafar Farooq,C5
+FA22-BCS-1-D,ECC,5,1000,MS Ms Abida Parveen,B3
+FA22-BCS-1-D,Introduction to the ICT,5,10000,CS Mr Usman Nasim,C Lab4
+SP19-BSE-8-A,Numerical Computations,5,100,MT Dr Nauman,C1.4
+FA19-BSE-7-A,Computer Vision,5,10000,CS Dr. Muhammad Shoaib,C3
+FA19-BSE-7-A,Software Project Management,5,1000,CS Ms. Mubeen Javed,C3
+FA19-BSE-7-A,Computer Vision,5,10,CS Dr. Muhammad Shoaib,C1.3
+FA19-BSE-7-B,Software Project Management,5,100,CS Ms. Aniqa Khawar,CAD CAM Lab
+SP20-BSE-6-A,Software Design Architecture,5,100,CS Mr. Ahmad Shaf,C3
+SP20-BSE-6-A,Software Project Management,5,1000,CS Ms. Aniqa Khawar,C Lab4
+FA20-BSE-5-A,Design Patterns,5,10,CS Dr. Muhammad Farhan,C1
+FA20-BSE-5-A,Software Requirement Engineering,5,10000,CS Ms. Madiha Fatima,C2
+FA20-BSE-5-A,Operating System concepts,5,1000,CS Mr. Muhammad Umar,C1.1
+FA20-BSE-5-A,Web Technologies,5,1,CS Ms Zunaira Mustafa,C Lab2
+FA20-BSE-5-B,Statistics and Probability Theory,5,1000,CS Ms Nosheen Ramzan,C2.3
+FA20-BSE-5-B,Software Requirement Engineering,5,10,CS Ms. Madiha Fatima,C2.5
+FA20-BSE-5-B,Web Technologies,5,100,CS Mr. Muhammad Aamir,C Lab3
+FA20-BSE-5-C,Software Requirement Engineering,5,10,CS Ms. Madiha Fatima,C2.5
+FA20-BSE-5-C,Introduction to Business,5,100,MS Ms Zunaira,B4
+FA20-BSE-5-C,Introduction to Business,5,10000,MS Ms Zunaira,B7
+SP21-BSE-4-A,Data Structures,5,100,CS Mr. Yawar Abbas Abid,C4
+SP21-BSE-4-A,Object Oriented Software Engineering,5,10000,CS Ms. Uzma Latif,C1.1
+SP21-BSE-4-A,Database Systems I,5,1000,CS Mr. Shahzad Ahmad,C Lab1
+SP21-BSE-4-A,Object Oriented Software Engineering,5,10,CS Ms Azka,C Lab2
+FA21-BSE-3-A,Calculus and Analytical Geometry,5,1000,MT Dr Afshan,W1
+FA21-BSE-3-A,Data Communication and Computer Networks,5,1,EE Asad Ali Khan,C Lab1
+FA21-BSE-3-A,Introduction to Software Engineering,5,10,CS Ms. Aniqa Khawar,C Lab4
+FA21-BSE-3-A,Object Oriented Programming,5,10000,CS Mr. Shahzad Ahmad,MS Lab
+FA21-BSE-3-B,Object Oriented Programming,5,100,CS Mr. Syed Nasir Mehdi,B12
+FA21-BSE-3-B,Calculus and Analytical Geometry,5,1000,MT Dr Afshan,W1
+FA21-BSE-3-B,Data Communication and Computer Networks,5,1,EE Asad Ali Khan,C Lab1
+FA21-BSE-3-B,Introduction to Software Engineering,5,10000,CS Ms. Aniqa Khawar,C Lab2
+FA21-BSE-3-C,Data Communication and Computer Networks,5,10,EE Mr Asif Imran,C3
+FA21-BSE-3-C,Introduction to Software Engineering,5,100,CS Mr. Muhammad Ahmad,C1.1
+FA21-BSE-3-C,Introduction to Software Engineering,5,10000,CS Mr. Muhammad Ahmad,B13
+FA21-BSE-3-C,Calculus and Analytical Geometry,5,1000,MT Dr Afshan,W1
+SP22-BSE-2-A,Communication Skills,5,100,MS Mr Zia Hassan,B14
+SP22-BSE-2-A,Programming Fundamentals,5,10,CS Mr. Syed Ameer Ahmed,W4
+SP22-BSE-2-A,Introduction to Software Engineering,5,1000,CS Ms Azka,Cisco Lab
+SP22-BSE-2-A,Programming Fundamentals,5,10000,EE Mr Abdul Khaliq,CAD CAM Lab
+FA22-BSE-1-A,Introduction to the ICT,5,1000,EE Mr Maulan Yasin,C2.4
+FA22-BSE-1-A,English Comprehension and Composition,5,100,MS Ms Abida Parveen,B7
+FA22-BSE-1-A,English Comprehension and Composition,5,10000,MS Ms Abida Parveen,B8
+FA22-BSE-1-B,Introduction to the ICT,5,10,EE Mr Asim Noon,MS Lab
+FA22-BSE-1-B,Applied Physics for Engineers,5,1000,ME Mr. Jawad Abid,PhyLab
+FA22-BSEE-B11A,Calculus and Analytical Geometry,5,100,MT Dr Afshan,C2
+FA21-BSEE-B10A,Entrepreneurship,5,10000,EE Mr Hafiz Zeeshan,A1.1
+FA21-BSEE-B10A,Entrepreneurship,5,100,EE Mr Hafiz Zeeshan,A2.8
+FA21-BSEE-B10A,Electronics I,5,1000,EE Mr Waqar Tahir,C&ELab
+FA20-BSEE-B9A,Introduction to Power Engineering,5,1000,EE Mr Khalid Majeed,A1.1
+FA20-BSEE-B9A,Introduction to Power Engineering,5,10000,EE Mr Khalid Majeed,A1.3
+FA20-BSEE-B9A,Control Systems,5,100,EE Dr Saqib Saleem,A1.3
+FA20-BSEE-B9A,Microprocessor Systems and Interfacing,5,10,EE Ms Rida,DigitalLab
+FA19-BSEE-B8A,Numerical Computations,5,10000,CS Ms Amna,A2.8
+FA22-BBA-B31,Introduction to Management,5,1,MS Mr Ali Kirmani,B12
+SP22-BBA-B30,Macro Economics,5,10,MS Ms Zunaira,B13
+SP21-BBA-B28,HRM,5,100,MS Mr Shoaib Bajwa,B11
+SP21-BBA-B28,MIS,5,1,MS Dr Waqas,B14
+FA20-BBA-B27 (A),SSRM,5,10000,MS Dr Rahib,B1
+FA20-BBA-B27 (A),E-Commerce,5,100,MS Mr Moazzam,B5
+FA20-BBA-B27 (A),SiF,5,10,MS Mr Shoaib Sajjad,B9
+FA20-BBA-B27 (A),ODCM,5,10000,MS Mr Ali Kirmani,B12
+FA20-BBA-B27 (B),SSRM,5,10000,MS Dr Rahib,B1
+FA20-BBA-B27 (B),E-Commerce,5,1000,MS Mr Moazzam,B7
+FA20-BBA-B27 (B),SiF,5,10,MS Mr Shoaib Sajjad,B9
+FA20-BBA-B27 (B),ODCM,5,10000,MS Mr Ali Kirmani,B12
+SP20-BBA-B26,SSRM,5,10000,MS Dr Rahib,B1
+SP20-BBA-B26,SiF,5,10,MS Mr Shoaib Sajjad,B9
+SP20-BBA-B26,ODCM,5,10000,MS Mr Ali Kirmani,B12
+FA19-BBA-B25,SFM & SiM,5,10,MS Dr Waqas,B4
+FA19-BBA-B25,LTM,5,10000,MS Mr Shoaib Bajwa,B11
+FA19-BBA-B25,DPF,5,1100,MS Dr Anees,MS Lab
+SP19-BBA-B24,SSRM,5,10000,MS Dr Rahib,B1
+SP19-BBA-B24,BM,5,1000,MS Dr Saqib,B1
+SP19-BBA-B24,BM,5,100,MS Dr Saqib,B3
+SP19-BBA-B24,SFM & SiM,5,10,MS Dr Waqas,B4
+SP19-BBA-B24,BT & CT,5,10000,MS Mr Hafiz Yasir,B5
+SP19-BBA-B24,LTM,5,10000,MS Mr Shoaib Bajwa,B11
+SP19-BBA-B24,DPF,5,1100,MS Dr Anees,MS Lab
+SP21-BAF-B10,BT & CT,5,10000,MS Mr Hafiz Yasir,B5
+FA21-MBA-B3,FMI & ATFIM,5,110,MS Dr Minhas,B1
+FA21-MBA-B3,MC,5,1,MS Dr Saqib,B1
+FA21-MBA-B3,BT & CT,5,10000,MS Mr Hafiz Yasir,B5
+SP21-MBA-B2,FMI & ATFIM,5,110,MS Dr Minhas,B1
+SP21-MBA-B2,MC,5,1,MS Dr Saqib,B1
+SP21-MBA-B2,SFM & ISP,5,10000,MS Dr QZ Malik,B4
+FA22-RMS-B16,Statistical Inference & Research Methodology,5,1000,MS Dr HM Arshad,Seminar Room
+FA22-RMS-B16,Advanced Marketing,5,10000,MS Dr Junaid,Seminar Room
+FA22-RMS-B16,Finance Theory & Practice,5,100,MS Dr Khurram,Seminar Room
+FA22-RMS-B16,Issues in Strategic Management,5,10,MS Dr Muzhar,Seminar Room
+SP22-RMS-B15,FMI & ATFIM,5,110,MS Dr Minhas,B1
+SP22-RMS-B15,BM,5,1000,MS Dr Saqib,B1
+SP22-RMS-B15,BM,5,100,MS Dr Saqib,B3
+SP22-RMS-B15,SFM & SiM,5,10,MS Dr Waqas,B4
+SP22-RMS-B15,SFM & ISP,5,10000,MS Dr QZ Malik,B4
+SP22-RMS-B15,Advanced Topics in International Finance,5,1000,MS Dr Khurram,B6
+FA22-BS(English)-B1,Writing & Presentation Skills ,5,1000,MS Mr Badar Iqbal,B12
